@@ -1,0 +1,16 @@
+---
+title: "TryTabuExtract"
+author: "Jiaxuan"
+date: "2024-12-11"
+output: html_document
+---
+
+
+```{r}
+library(tabulapdf)
+
+out <- extract_tables("Tasigna_Label.pdf")
+AE <- out[[8]][2]
+AE <- AE[is.na(AE)==0, ]
+View(AE)
+```
