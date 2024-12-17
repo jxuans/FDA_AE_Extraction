@@ -1,0 +1,481 @@
+1/9/2024$D$$10007830$10007935$10021879$10021881$Cavernous sinus thrombosis$Central nervous system and spinal infections$Infections - pathogen unspecified$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$D$$10007830$10008205$10014523$10047065$Cavernous sinus thrombosis$Cerebrovascular embolism and thrombosis$Embolism and thrombosis$Vascular disorders$Vasc$$10021881$N$
+1/9/2024$D$$10007830$10008209$10007963$10029205$Cavernous sinus thrombosis$Cerebrovascular venous and sinus thrombosis$Central nervous system vascular disorders$Nervous system disorders$Nerv$$10021881$N$
+1/9/2024$D$$10010964$10041462$10010118$10037175$Coprolalia$Speech articulation and rhythm disturbances$Communication disorders and disturbances$Psychiatric disorders$Psych$$10037175$Y$
+1/9/2024$D$$10011558$10008183$10029295$10022891$CSF oligoclonal band$Cerebrospinal fluid tests (excl microbiology)$Neurological, special senses and psychiatric investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$D$$10012503$10010760$10014982$10040785$Dermatomyositis$Connective tissue disorders$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10040785$Y$
+1/9/2024$D$$10012503$10021992$10028302$10028395$Dermatomyositis$Muscle infections and inflammations$Muscle disorders$Musculoskeletal and connective tissue disorders$Musc$$10040785$N$
+1/9/2024$D$$10012503$10027657$10003816$10021428$Dermatomyositis$Autoimmune disorders NEC$Autoimmune disorders$Immune system disorders$Immun$$10040785$N$
+1/9/2024$D$$10029415$10015664$10014982$10040785$Nikolsky's sign$Exfoliative conditions$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10040785$Y$
+1/9/2024$D$$10029530$10019833$10019654$10019805$Non-alcoholic fatty liver$Hepatocellular damage and hepatitis NEC$Hepatic and hepatobiliary disorders$Hepatobiliary disorders$Hepat$$10019805$Y$
+1/9/2024$D$$10029530$10024581$10013317$10027433$Non-alcoholic fatty liver$Lipid metabolism and deposit disorders NEC$Lipid metabolism disorders$Metabolism and nutrition disorders$Metab$$10019805$N$
+1/9/2024$D$$10036463$10017921$10017969$10017947$Pouchitis$Gastrointestinal inflammatory disorders NEC$Gastrointestinal inflammatory conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$D$$10036463$10017927$10069888$10022117$Pouchitis$Gastrointestinal and hepatobiliary procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10017947$N$
+1/9/2024$D$$10038324$10008772$10015957$10042613$Removal of foreign body from conjunctiva$Choroid and conjunctival therapeutic procedures$Eye therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$D$$10049528$10001373$10014706$10022891$Vanillyl mandelic acid urine increased$Adrenal medulla tests$Endocrine investigations (incl sex hormones)$Investigations$Inv$$10022891$Y$
+1/9/2024$D$$10050361$10003842$10083624$10010331$Wolf-Hirschhorn syndrome$Autosomal chromosomal abnormalities$Chromosomal abnormalities, gene alterations and gene variants$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$D$$10050361$10028378$10028377$10028395$Wolf-Hirschhorn syndrome$Musculoskeletal and connective tissue deformities of skull, face and buccal cavity$Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders)$Musculoskeletal and connective tissue disorders$Musc$$10010331$N$
+1/9/2024$D$$10050833$10001373$10014706$10022891$Vanillyl mandelic acid urine$Adrenal medulla tests$Endocrine investigations (incl sex hormones)$Investigations$Inv$$10022891$Y$
+1/9/2024$D$$10050836$10001373$10014706$10022891$Vanillyl mandelic acid urine decreased$Adrenal medulla tests$Endocrine investigations (incl sex hormones)$Investigations$Inv$$10022891$Y$
+1/9/2024$D$$10053219$10019833$10019654$10019805$Non-alcoholic steatohepatitis$Hepatocellular damage and hepatitis NEC$Hepatic and hepatobiliary disorders$Hepatobiliary disorders$Hepat$$10019805$Y$
+1/9/2024$D$$10053219$10024581$10013317$10027433$Non-alcoholic steatohepatitis$Lipid metabolism and deposit disorders NEC$Lipid metabolism disorders$Metabolism and nutrition disorders$Metab$$10019805$N$
+1/9/2024$D$$10053694$10030059$10030061$10015919$Saccadic eye movement$Ocular nerve and muscle disorders$Ocular neuromuscular disorders$Eye disorders$Eye$$10029205$N$
+1/9/2024$D$$10053694$10072984$10029305$10029205$Saccadic eye movement$Coordination and balance disturbances$Neurological disorders NEC$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$D$$10057902$10046808$10029903$10042613$Endometriosis ablation$Uterine therapeutic procedures$Obstetric and gynaecological therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$D$$10060875$10010180$10038430$10038359$Uraemic pruritus$Renal failure complications$Renal disorders (excl nephropathies)$Renal and urinary disorders$Renal$$10040785$N$
+1/9/2024$D$$10060875$10049293$10014982$10040785$Uraemic pruritus$Pruritus NEC$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10040785$Y$
+1/9/2024$D$$10065016$10029511$10022114$10022117$Post-traumatic pain$Non-site specific injuries NEC$Injuries NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$D$$10065016$10033372$10018073$10018065$Post-traumatic pain$Pain and discomfort NEC$General system disorders NEC$General disorders and administration site conditions$Genrl$$10022117$N$
+1/9/2024$D$$10066267$10010760$10014982$10040785$Paraneoplastic dermatomyositis$Connective tissue disorders$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10040785$Y$
+1/9/2024$D$$10066267$10052738$10003816$10021428$Paraneoplastic dermatomyositis$Skin autoimmune disorders NEC$Autoimmune disorders$Immune system disorders$Immun$$10040785$N$
+1/9/2024$D$$10066267$10067229$10068775$10029104$Paraneoplastic dermatomyositis$Paraneoplastic syndromes NEC$Neoplasm related morbidities$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10040785$N$
+1/9/2024$D$$10066267$10074472$10010761$10028395$Paraneoplastic dermatomyositis$Connective tissue disorders NEC$Connective tissue disorders (excl congenital)$Musculoskeletal and connective tissue disorders$Musc$$10040785$N$
+1/9/2024$D$$10066296$10042259$10042258$10029205$Cerebral calcification$Structural brain disorders NEC$Structural brain disorders$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$D$$10070321$10019808$10019809$10022891$Transient elastography$Hepatobiliary imaging procedures$Hepatobiliary investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$D$$10071041$10038896$10042261$10015919$Macular pigmentation$Retinal structural change, deposit and degeneration$Ocular structural change, deposit and degeneration NEC$Eye disorders$Eye$$10015919$Y$
+1/9/2024$D$$10072629$10019712$10019654$10019805$Intrahepatic portal hepatic venous fistula$Hepatic vascular disorders$Hepatic and hepatobiliary disorders$Hepatobiliary disorders$Hepat$$10019805$Y$
+1/9/2024$D$$10072629$10057188$10047066$10047065$Intrahepatic portal hepatic venous fistula$Site specific vascular disorders NEC$Vascular disorders NEC$Vascular disorders$Vasc$$10019805$N$
+1/9/2024$D$$10072744$10027660$10007593$10042613$Alcohol septal ablation$Cardiac therapeutic procedures NEC$Cardiac therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$D$$10073181$10036967$10025506$10042613$Prostate cryoablation$Prostatic therapeutic procedures$Male genital tract therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$D$$10074269$10007635$10028593$10007541$Tachycardia induced cardiomyopathy$Cardiomyopathies$Myocardial disorders$Cardiac disorders$Card$$10007541$Y$
+1/9/2024$D$$10075606$10039912$10039911$10029205$Change in seizure presentation$Seizures and seizure disorders NEC$Seizures (incl subtypes)$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$D$$10078158$10004047$10004018$10021881$Gastrointestinal bacterial overgrowth$Bacterial infections NEC$Bacterial infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$D$$10078158$10017968$10017966$10017947$Gastrointestinal bacterial overgrowth$Gastrointestinal infections, site unspecified$Gastrointestinal infections$Gastrointestinal disorders$Gastr$$10021881$N$
+1/9/2024$D$$10079194$10027700$10043413$10042613$Fistulotomy$Therapeutic procedures NEC$Therapeutic procedures and supportive care NEC$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$D$$10081238$10042259$10042258$10029205$Cerebellar calcification$Structural brain disorders NEC$Structural brain disorders$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$D$$10086701$10012658$10012653$10014698$Diabetic complication renal$Diabetic complications renal$Diabetic complications$Endocrine disorders$Endo$$10038359$N$
+1/9/2024$D$$10086701$10012658$10012653$10027433$Diabetic complication renal$Diabetic complications renal$Diabetic complications$Metabolism and nutrition disorders$Metab$$10038359$N$
+1/9/2024$D$$10086701$10029150$10029149$10038359$Diabetic complication renal$Nephropathies and tubular disorders NEC$Nephropathies$Renal and urinary disorders$Renal$$10038359$Y$
+1/9/2024$D$$10088632$10052876$10041297$10042613$Fasciocutaneous rotation flap$Soft tissue therapeutic procedures NEC$Soft tissue therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$D$$10089465$10027659$10006295$10042613$Laser ablation of breast$Breast therapeutic procedures NEC$Breast therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$D$$10089581$10003828$10021505$10022891$Anti-Jo-1 antibody$Autoimmunity analyses$Immunology and allergy investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$D$$10089973$10027694$10022114$10022117$Renal forniceal rupture$Renal and urinary tract injuries NEC$Injuries NEC$Injury, poisoning and procedural complications$Inj&P$$10038359$N$
+1/9/2024$D$$10089973$10030315$10068775$10029104$Renal forniceal rupture$Oncologic complications and emergencies$Neoplasm related morbidities$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10038359$N$
+1/9/2024$D$$10089973$10038529$10038430$10038359$Renal forniceal rupture$Renal structural abnormalities and trauma$Renal disorders (excl nephropathies)$Renal and urinary disorders$Renal$$10038359$Y$
+1/9/2024$D$$10090480$10010446$10010612$10038604$Cervical agenesis$Congenital female reproductive tract disorders$Congenital reproductive tract and breast disorders$Reproductive system and breast disorders$Repro$$10010331$N$
+1/9/2024$D$$10090480$10016416$10038608$10010331$Cervical agenesis$Female reproductive tract disorders congenital$Reproductive tract and breast disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10001243$10006287$10006288$10029104$Adenosis sclerosing$Breast and nipple neoplasms benign$Breast neoplasms benign (incl nipple)$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10001243$10006289$10006232$10038604$Adenosis sclerosing$Benign and malignant breast neoplasms$Breast disorders$Reproductive system and breast disorders$Repro$$10029104$N$
+1/9/2024$A$$10007830$10008205$10014523$10047065$Cavernous sinus thrombosis$Cerebrovascular embolism and thrombosis$Embolism and thrombosis$Vascular disorders$Vasc$$10029205$N$
+1/9/2024$A$$10007830$10008209$10007963$10029205$Cavernous sinus thrombosis$Cerebrovascular venous and sinus thrombosis$Central nervous system vascular disorders$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10007830$10021982$10002252$10021881$Cavernous sinus thrombosis$Inflammatory disorders following infection$Ancillary infectious topics$Infections and infestations$Infec$$10029205$N$
+1/9/2024$A$$10010964$10042007$10008401$10037175$Coprolalia$Stereotypies and automatisms$Changes in physical activity$Psychiatric disorders$Psych$$10037175$Y$
+1/9/2024$A$$10012503$10010760$10014982$10040785$Dermatomyositis$Connective tissue disorders$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10028395$N$
+1/9/2024$A$$10012503$10021992$10028302$10028395$Dermatomyositis$Muscle infections and inflammations$Muscle disorders$Musculoskeletal and connective tissue disorders$Musc$$10028395$Y$
+1/9/2024$A$$10012503$10027657$10003816$10021428$Dermatomyositis$Autoimmune disorders NEC$Autoimmune disorders$Immune system disorders$Immun$$10028395$N$
+1/9/2024$A$$10036463$10017921$10017969$10017947$Pouchitis$Gastrointestinal inflammatory disorders NEC$Gastrointestinal inflammatory conditions$Gastrointestinal disorders$Gastr$$10022117$N$
+1/9/2024$A$$10036463$10017927$10069888$10022117$Pouchitis$Gastrointestinal and hepatobiliary procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10050361$10029513$10028396$10010331$Wolf-Hirschhorn syndrome$Musculoskeletal disorders congenital NEC$Musculoskeletal and connective tissue disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10050361$10029513$10028396$10028395$Wolf-Hirschhorn syndrome$Musculoskeletal disorders congenital NEC$Musculoskeletal and connective tissue disorders congenital$Musculoskeletal and connective tissue disorders$Musc$$10010331$N$
+1/9/2024$A$$10053002$10041590$10009720$10042613$Spinal rod insertion$Spine and spinal cord therapeutic procedures$Nervous system, skull and spine therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10054232$10021544$10001316$10018065$Catheter site discomfort$Implant and catheter site reactions$Administration site reactions$General disorders and administration site conditions$Genrl$$10018065$Y$
+1/9/2024$A$$10054232$10021544$10001316$10022117$Catheter site discomfort$Implant and catheter site reactions$Administration site reactions$Injury, poisoning and procedural complications$Inj&P$$10018065$N$
+1/9/2024$A$$10054244$10002114$10017966$10017947$Herpes simplex anorectal$Anal, rectal, perianal and perirectal infections$Gastrointestinal infections$Gastrointestinal disorders$Gastr$$10021881$N$
+1/9/2024$A$$10054244$10019972$10047438$10021881$Herpes simplex anorectal$Herpes viral infections$Viral infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10056954$10010760$10014982$10040785$Gottron's papules$Connective tissue disorders$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10040785$Y$
+1/9/2024$A$$10056954$10027657$10003816$10021428$Gottron's papules$Autoimmune disorders NEC$Autoimmune disorders$Immune system disorders$Immun$$10040785$N$
+1/9/2024$A$$10057896$10015908$10069888$10022117$Proliferative vitreoretinopathy$Eye and ear procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10015919$N$
+1/9/2024$A$$10057896$10030067$10047066$10047065$Proliferative vitreoretinopathy$Ocular vascular disorders NEC$Vascular disorders NEC$Vascular disorders$Vasc$$10015919$N$
+1/9/2024$A$$10057896$10038932$10047060$10015919$Proliferative vitreoretinopathy$Retinopathies NEC$Retina, choroid and vitreous haemorrhages and vascular disorders$Eye disorders$Eye$$10015919$Y$
+1/9/2024$A$$10061117$10053104$10007512$10022891$Electrocardiogram ST-T change$ECG investigations$Cardiac and vascular investigations (excl enzyme tests)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10063970$10015908$10069888$10022117$Choroidal effusion$Eye and ear procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10015919$N$
+1/9/2024$A$$10065619$10029559$10069888$10022117$Incision site discomfort$Non-site specific procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10066267$10010760$10014982$10040785$Paraneoplastic dermatomyositis$Connective tissue disorders$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10028395$N$
+1/9/2024$A$$10066267$10052738$10003816$10021428$Paraneoplastic dermatomyositis$Skin autoimmune disorders NEC$Autoimmune disorders$Immune system disorders$Immun$$10028395$N$
+1/9/2024$A$$10066267$10067229$10068775$10029104$Paraneoplastic dermatomyositis$Paraneoplastic syndromes NEC$Neoplasm related morbidities$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10028395$N$
+1/9/2024$A$$10066267$10074472$10010761$10028395$Paraneoplastic dermatomyositis$Connective tissue disorders NEC$Connective tissue disorders (excl congenital)$Musculoskeletal and connective tissue disorders$Musc$$10028395$Y$
+1/9/2024$A$$10066970$10011049$10002693$10015919$Corneal endothelial disorder$Corneal structural change, deposit and degeneration$Anterior eye structural change, deposit and degeneration$Eye disorders$Eye$$10015919$Y$
+1/9/2024$A$$10068534$10007602$10069888$10022117$Coronary no-reflow phenomenon$Cardiac and vascular procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10007541$N$
+1/9/2024$A$$10070999$10019817$10019811$10019805$Intraductal papillary mucinous neoplasm$Hepatobiliary neoplasms NEC$Hepatobiliary neoplasms$Hepatobiliary disorders$Hepat$$10029104$N$
+1/9/2024$A$$10072617$10007709$10043237$10028395$Osteochondral defects$Cartilage disorders$Tendon, ligament and cartilage disorders$Musculoskeletal and connective tissue disorders$Musc$$10028395$Y$
+1/9/2024$A$$10072617$10074485$10005942$10022117$Osteochondral defects$Bone and joint injuries NEC$Bone and joint injuries$Injury, poisoning and procedural complications$Inj&P$$10028395$N$
+1/9/2024$A$$10077271$10027692$10015674$10017947$Immunoglobulin G4 related disease$Pancreatic disorders NEC$Exocrine pancreas conditions$Gastrointestinal disorders$Gastr$$10028395$N$
+1/9/2024$A$$10077271$10030045$10021877$10015919$Immunoglobulin G4 related disease$Ocular infections, inflammations and associated manifestations$Ocular infections, irritations and inflammations$Eye disorders$Eye$$10028395$N$
+1/9/2024$A$$10077514$10008776$10042261$10015919$Vitreous haze$Choroid and vitreous structural change, deposit and degeneration$Ocular structural change, deposit and degeneration NEC$Eye disorders$Eye$$10015919$Y$
+1/9/2024$A$$10078634$10077539$10077537$10077536$Manufacturing equipment sanitisation issue$Manufacturing facilities and equipment issues$Product quality, supply, distribution, manufacturing and quality system issues$Product issues$Prod$$10077536$Y$
+1/9/2024$A$$10081555$10019233$10019231$10029205$Orthostatic headache$Headaches NEC$Headaches$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10083869$10033979$10024967$10038738$Alpha-1 antitrypsin deficiency$Parenchymal lung disorders NEC$Lower respiratory tract disorders (excl obstruction and infection)$Respiratory, thoracic and mediastinal disorders$Resp$$10010331$N$
+1/9/2024$A$$10090033$10000497$10040798$10040785$Menopausal acne$Acnes$Skin appendage conditions$Skin and subcutaneous tissue disorders$Skin$$10040785$Y$
+1/9/2024$A$$10090033$10027299$10074469$10038604$Menopausal acne$Menopausal effects NEC$Menopause related conditions$Reproductive system and breast disorders$Repro$$10040785$N$
+1/9/2024$A$$10090499$10027700$10043413$10042613$Laser surgery$Therapeutic procedures NEC$Therapeutic procedures and supportive care NEC$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090662$10034976$10043413$10042613$Photothermal therapy$Phototherapies$Therapeutic procedures and supportive care NEC$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090663$10030053$10030054$10015919$Vasoproliferative retinal tumour$Ocular neoplasms malignancy unspecified$Ocular neoplasms$Eye disorders$Eye$$10029104$N$
+1/9/2024$A$$10090663$10030053$10030054$10029104$Vasoproliferative retinal tumour$Ocular neoplasms malignancy unspecified$Ocular neoplasms$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10090663$10030067$10047066$10047065$Vasoproliferative retinal tumour$Ocular vascular disorders NEC$Vascular disorders NEC$Vascular disorders$Vasc$$10029104$N$
+1/9/2024$A$$10090664$10035130$10035129$10036585$Succenturiate placenta$Placental abnormalities (excl neoplasms)$Placental, amniotic and cavity disorders (excl haemorrhages)$Pregnancy, puerperium and perinatal conditions$Preg$$10036585$Y$
+1/9/2024$A$$10090665$10007602$10069888$10022117$Pericardial decompression syndrome$Cardiac and vascular procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10007541$N$
+1/9/2024$A$$10090665$10019281$10019280$10007541$Pericardial decompression syndrome$Heart failures NEC$Heart failures$Cardiac disorders$Card$$10007541$Y$
+1/9/2024$A$$10090665$10057181$10011954$10047065$Pericardial decompression syndrome$Vascular hypotensive disorders$Decreased and nonspecific blood pressure disorders and shock$Vascular disorders$Vasc$$10007541$N$
+1/9/2024$A$$10090672$10033979$10024967$10038738$Pulmonary inflammatory pseudotumour$Parenchymal lung disorders NEC$Lower respiratory tract disorders (excl obstruction and infection)$Respiratory, thoracic and mediastinal disorders$Resp$$10038738$Y$
+1/9/2024$A$$10090674$10029285$10029295$10022891$Fazekas scale abnormal$Neurologic diagnostic procedures$Neurological, special senses and psychiatric investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090682$10007654$10022114$10022117$Commotio cordis$Cardiovascular injuries$Injuries NEC$Injury, poisoning and procedural complications$Inj&P$$10007541$N$
+1/9/2024$A$$10090682$10047283$10007521$10007541$Commotio cordis$Ventricular arrhythmias and cardiac arrest$Cardiac arrhythmias$Cardiac disorders$Card$$10007541$Y$
+1/9/2024$A$$10090683$10030952$10029301$10029205$Kaleidoscope vision$Ocular signs and symptoms NEC$Neurological disorders of the eye$Nervous system disorders$Nerv$$10015919$N$
+1/9/2024$A$$10090683$10047541$10047518$10015919$Kaleidoscope vision$Visual disorders NEC$Vision disorders$Eye disorders$Eye$$10015919$Y$
+1/9/2024$A$$10090692$10029285$10029295$10022891$Clock drawing test abnormal$Neurologic diagnostic procedures$Neurological, special senses and psychiatric investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090698$10067226$10029295$10022891$Hospital anxiety and depression scale abnormal$Psychiatric investigations$Neurological, special senses and psychiatric investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090701$10021902$10021879$10021881$Gut derived infection$Infections NEC$Infections - pathogen unspecified$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10090701$10022678$10017966$10017947$Gut derived infection$Intestinal infections$Gastrointestinal infections$Gastrointestinal disorders$Gastr$$10021881$N$
+1/9/2024$A$$10090704$10027660$10007593$10042613$Percutaneous transluminal septal myocardial ablation$Cardiac therapeutic procedures NEC$Cardiac therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090707$10013322$10014701$10014698$Testicular hypotrophy$Male gonadal function disorders$Endocrine disorders of gonadal function$Endocrine disorders$Endo$$10038604$N$
+1/9/2024$A$$10090707$10043296$10013362$10038604$Testicular hypotrophy$Testicular and epididymal disorders NEC$Testicular and epididymal disorders$Reproductive system and breast disorders$Repro$$10038604$Y$
+1/9/2024$A$$10090708$10004047$10004018$10021881$Gemella infection$Bacterial infections NEC$Bacterial infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10090710$10041590$10009720$10042613$Spinopelvic fixation$Spine and spinal cord therapeutic procedures$Nervous system, skull and spine therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090711$10038543$10038430$10038359$Early branching of renal artery$Renal vascular and ischaemic conditions$Renal disorders (excl nephropathies)$Renal and urinary disorders$Renal$$10010331$N$
+1/9/2024$A$$10090711$10047047$10007510$10010331$Early branching of renal artery$Vascular anomalies congenital NEC$Cardiac and vascular disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10090711$10047091$10047066$10047065$Early branching of renal artery$Vascular malformations and acquired anomalies$Vascular disorders NEC$Vascular disorders$Vasc$$10010331$N$
+1/9/2024$A$$10090713$10028326$10028302$10028395$Peripheral nerve hyperexcitability$Muscle related signs and symptoms NEC$Muscle disorders$Musculoskeletal and connective tissue disorders$Musc$$10029205$N$
+1/9/2024$A$$10090713$10029318$10029317$10029205$Peripheral nerve hyperexcitability$Neuromuscular disorders NEC$Neuromuscular disorders$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10090717$10034653$10034652$10017947$Mesenteric thickening$Peritoneal and retroperitoneal disorders$Peritoneal and retroperitoneal conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$A$$10090718$10072981$10087058$10022891$Neutrophil CD64 expression increased$Cell marker analyses$Cytogenetic investigations and genetic analyses$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090719$10072981$10087058$10022891$Neutrophil CD64 expression$Cell marker analyses$Cytogenetic investigations and genetic analyses$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090724$10003821$10003816$10021428$Myocarditis-myositis-myasthenia gravis overlap syndrome$Muscular autoimmune disorders$Autoimmune disorders$Immune system disorders$Immun$$10029205$N$
+1/9/2024$A$$10090724$10029320$10029317$10029205$Myocarditis-myositis-myasthenia gravis overlap syndrome$Neuromuscular junction dysfunction$Neuromuscular disorders$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10090724$10029548$10028593$10007541$Myocarditis-myositis-myasthenia gravis overlap syndrome$Noninfectious myocarditis$Myocardial disorders$Cardiac disorders$Card$$10029205$N$
+1/9/2024$A$$10090724$10071942$10028302$10028395$Myocarditis-myositis-myasthenia gravis overlap syndrome$Myasthenia gravis and related conditions$Muscle disorders$Musculoskeletal and connective tissue disorders$Musc$$10029205$N$
+1/9/2024$A$$10090731$10034607$10034606$10029205$Anterior cutaneous nerve entrapment syndrome$Peripheral neuropathies NEC$Peripheral neuropathies$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10090731$10052639$10022114$10022117$Anterior cutaneous nerve entrapment syndrome$Nerve injuries NEC$Injuries NEC$Injury, poisoning and procedural complications$Inj&P$$10029205$N$
+1/9/2024$A$$10090732$10046934$10038595$10029104$Vaginal leiomyoma$Vaginal neoplasms benign$Reproductive neoplasms female benign$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10090732$10047785$10047789$10038604$Vaginal leiomyoma$Vulvovaginal cysts and neoplasms$Vulvovaginal disorders (excl infections and inflammations)$Reproductive system and breast disorders$Repro$$10029104$N$
+1/9/2024$A$$10090739$10010039$10017991$10029104$MUTYH-associated polyposis$Colorectal and anal neoplasms malignancy unspecified$Gastrointestinal neoplasms malignant and unspecified$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10010331$N$
+1/9/2024$A$$10090739$10017993$10017990$10017947$MUTYH-associated polyposis$Gastrointestinal neoplasms NEC$Malignant and unspecified neoplasms gastrointestinal NEC$Gastrointestinal disorders$Gastr$$10010331$N$
+1/9/2024$A$$10090739$10022646$10018018$10010331$MUTYH-associated polyposis$Intestinal disorders congenital$Gastrointestinal tract disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10090740$10039487$10027665$10021428$Splenic sarcoidosis$Acute and chronic sarcoidosis$Immune disorders NEC$Immune system disorders$Immun$$10005329$N$
+1/9/2024$A$$10090740$10041635$10041641$10005329$Splenic sarcoidosis$Spleen disorders$Spleen, lymphatic and reticuloendothelial system disorders$Blood and lymphatic system disorders$Blood$$10005329$Y$
+1/9/2024$A$$10090741$10029513$10028396$10010331$Rauch-Steindl syndrome$Musculoskeletal disorders congenital NEC$Musculoskeletal and connective tissue disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10090741$10029513$10028396$10028395$Rauch-Steindl syndrome$Musculoskeletal disorders congenital NEC$Musculoskeletal and connective tissue disorders congenital$Musculoskeletal and connective tissue disorders$Musc$$10010331$N$
+1/9/2024$A$$10090741$10077548$10009841$10037175$Rauch-Steindl syndrome$Intellectual disabilities$Cognitive and attention disorders and disturbances$Psychiatric disorders$Psych$$10010331$N$
+1/9/2024$A$$10090741$10077548$10057167$10029205$Rauch-Steindl syndrome$Intellectual disabilities$Mental impairment disorders$Nervous system disorders$Nerv$$10010331$N$
+1/9/2024$A$$10090742$10038602$10038592$10022891$Breast transillumination$Reproductive organ and breast imaging procedures$Reproductive organ and breast investigations (excl hormone analyses)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090743$10033979$10024967$10038738$Ewart's sign$Parenchymal lung disorders NEC$Lower respiratory tract disorders (excl obstruction and infection)$Respiratory, thoracic and mediastinal disorders$Resp$$10007541$N$
+1/9/2024$A$$10090743$10034469$10034468$10007541$Ewart's sign$Pericardial disorders NEC$Pericardial disorders$Cardiac disorders$Card$$10007541$Y$
+1/9/2024$A$$10090744$10017968$10017966$10017947$Gastrointestinal microorganism overgrowth$Gastrointestinal infections, site unspecified$Gastrointestinal infections$Gastrointestinal disorders$Gastr$$10021881$N$
+1/9/2024$A$$10090744$10021902$10021879$10021881$Gastrointestinal microorganism overgrowth$Infections NEC$Infections - pathogen unspecified$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10090748$10037385$10038668$10022891$Pulmonary residual volume increased$Respiratory and pulmonary function diagnostic procedures$Respiratory and pulmonary investigations (excl blood gases)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090749$10035021$10035023$10040785$Visible Blaschko lines$Pigmentation changes NEC$Pigmentation disorders$Skin and subcutaneous tissue disorders$Skin$$10040785$Y$
+1/9/2024$A$$10090750$10011168$10029305$10029205$Utilisation behaviour$Cortical dysfunction NEC$Neurological disorders NEC$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10090750$10041427$10009841$10037175$Utilisation behaviour$Specific cognitive ability disturbances$Cognitive and attention disorders and disturbances$Psychiatric disorders$Psych$$10029205$N$
+1/9/2024$A$$10090752$10004048$10024970$10038738$Chlamydial bronchitis$Bacterial lower respiratory tract infections$Respiratory tract infections$Respiratory, thoracic and mediastinal disorders$Resp$$10021881$N$
+1/9/2024$A$$10090752$10008561$10008555$10021881$Chlamydial bronchitis$Chlamydial infections$Chlamydial infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10090760$10019808$10019809$10022891$Hepatic magnetic resonance corrected T1 value$Hepatobiliary imaging procedures$Hepatobiliary investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090762$10047938$10018851$10022891$Lymphocyte subset panel$White blood cell analyses$Haematology investigations (incl blood groups)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090763$10037379$10014523$10047065$Post pulmonary embolism syndrome$Pulmonary embolism and thrombosis$Embolism and thrombosis$Vascular disorders$Vasc$$10038738$N$
+1/9/2024$A$$10090763$10037439$10037454$10038738$Post pulmonary embolism syndrome$Pulmonary thrombotic and embolic conditions$Pulmonary vascular disorders$Respiratory, thoracic and mediastinal disorders$Resp$$10038738$Y$
+1/9/2024$A$$10090763$10039164$10019280$10007541$Post pulmonary embolism syndrome$Right ventricular failures$Heart failures$Cardiac disorders$Card$$10038738$N$
+1/9/2024$A$$10090766$10006287$10006288$10029104$Breast radial scar$Breast and nipple neoplasms benign$Breast neoplasms benign (incl nipple)$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10090766$10006289$10006232$10038604$Breast radial scar$Benign and malignant breast neoplasms$Breast disorders$Reproductive system and breast disorders$Repro$$10029104$N$
+1/9/2024$A$$10090768$10011391$10024136$10041244$Illicit prescription attainment$Criminal activity$Legal issues$Social circumstances$SocCi$$10041244$Y$
+1/9/2024$A$$10090770$10014714$10029112$10014698$Gastrointestinal neuroendocrine tumour$Endocrine neoplasms NEC$Neoplastic and ectopic endocrinopathies$Endocrine disorders$Endo$$10029104$N$
+1/9/2024$A$$10090770$10017993$10017990$10017947$Gastrointestinal neuroendocrine tumour$Gastrointestinal neoplasms NEC$Malignant and unspecified neoplasms gastrointestinal NEC$Gastrointestinal disorders$Gastr$$10029104$N$
+1/9/2024$A$$10090770$10023051$10014713$10029104$Gastrointestinal neuroendocrine tumour$Islet cell neoplasms and APUDoma NEC$Endocrine neoplasms malignant and unspecified$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10090776$10029509$10028396$10010331$Seckel syndrome$Non-site specific bone disorders congenital$Musculoskeletal and connective tissue disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10090776$10029509$10028396$10028395$Seckel syndrome$Non-site specific bone disorders congenital$Musculoskeletal and connective tissue disorders congenital$Musculoskeletal and connective tissue disorders$Musc$$10010331$N$
+1/9/2024$A$$10090776$10077548$10009841$10037175$Seckel syndrome$Intellectual disabilities$Cognitive and attention disorders and disturbances$Psychiatric disorders$Psych$$10010331$N$
+1/9/2024$A$$10090776$10077548$10057167$10029205$Seckel syndrome$Intellectual disabilities$Mental impairment disorders$Nervous system disorders$Nerv$$10010331$N$
+1/9/2024$A$$10090779$10027653$10017998$10042613$Transduodenal ampullectomy$Abdominal therapeutic procedures NEC$Gastrointestinal therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090781$10017921$10017969$10017947$Enterocolic phlebitis$Gastrointestinal inflammatory disorders NEC$Gastrointestinal inflammatory conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$A$$10090781$10052780$10082207$10047065$Enterocolic phlebitis$Phlebitis NEC$Vascular infections and inflammations$Vascular disorders$Vasc$$10017947$N$
+1/9/2024$A$$10090782$10047490$10027529$10022891$Human bocavirus test$Virus identification and serology$Microbiology and serology investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090790$10000117$10037173$10037175$Involuntary vocalisation$Abnormal behaviour NEC$Psychiatric and behavioural symptoms NEC$Psychiatric disorders$Psych$$10029205$N$
+1/9/2024$A$$10090790$10029306$10029305$10029205$Involuntary vocalisation$Neurological signs and symptoms NEC$Neurological disorders NEC$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10090793$10007602$10069888$10022117$Pericardial perforation$Cardiac and vascular procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10007541$N$
+1/9/2024$A$$10090793$10034469$10034468$10007541$Pericardial perforation$Pericardial disorders NEC$Pericardial disorders$Cardiac disorders$Card$$10007541$Y$
+1/9/2024$A$$10090798$10052876$10041297$10042613$Fasciocutaneous flap operation$Soft tissue therapeutic procedures NEC$Soft tissue therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090802$10019972$10047438$10021881$Zoster sine herpete$Herpes viral infections$Viral infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10090802$10034607$10034606$10029205$Zoster sine herpete$Peripheral neuropathies NEC$Peripheral neuropathies$Nervous system disorders$Nerv$$10021881$N$
+1/9/2024$A$$10090809$10027657$10003816$10021428$Autoimmune vasculitis$Autoimmune disorders NEC$Autoimmune disorders$Immune system disorders$Immun$$10047065$N$
+1/9/2024$A$$10090809$10047113$10082207$10047065$Autoimmune vasculitis$Vasculitides NEC$Vascular infections and inflammations$Vascular disorders$Vasc$$10047065$Y$
+1/9/2024$A$$10090810$10002903$10003184$10042613$Thoracic endovascular aortic repair$Aortic therapeutic procedures$Vascular therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090827$10057184$10038716$10038738$Tonsil asymmetry$Respiratory tract disorders NEC$Respiratory disorders NEC$Respiratory, thoracic and mediastinal disorders$Resp$$10038738$Y$
+1/9/2024$A$$10090828$10044050$10044018$10017947$Chronic hyperplastic pulpitis$Dental pulp disorders$Dental and gingival conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$A$$10090829$10033634$10017998$10042613$Pancreatic necrosectomy$Pancreatic therapeutic procedures$Gastrointestinal therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090840$10023285$10072990$10029104$Iatrogenic Kaposi sarcoma$Kaposi's sarcomas$Soft tissue neoplasms malignant and unspecified$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10090840$10029559$10069888$10022117$Iatrogenic Kaposi sarcoma$Non-site specific procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10029104$N$
+1/9/2024$A$$10090841$10029513$10028396$10010331$Marden-Walker syndrome$Musculoskeletal disorders congenital NEC$Musculoskeletal and connective tissue disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10090841$10029513$10028396$10028395$Marden-Walker syndrome$Musculoskeletal disorders congenital NEC$Musculoskeletal and connective tissue disorders congenital$Musculoskeletal and connective tissue disorders$Musc$$10010331$N$
+1/9/2024$A$$10090852$10006472$10038668$10022891$Thoracic cavity drainage test normal$Respiratory tract and thoracic histopathology procedures$Respiratory and pulmonary investigations (excl blood gases)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090855$10001376$10001353$10014698$Ewing's sarcoma of adrenal gland$Adrenal neoplasms$Adrenal gland disorders$Endocrine disorders$Endo$$10029104$N$
+1/9/2024$A$$10090855$10015760$10072990$10029104$Ewing's sarcoma of adrenal gland$Extraskeletal Ewing's sarcomas$Soft tissue neoplasms malignant and unspecified$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10090856$10019833$10019654$10019805$Metabolic dysfunction-associated steatohepatitis$Hepatocellular damage and hepatitis NEC$Hepatic and hepatobiliary disorders$Hepatobiliary disorders$Hepat$$10019805$Y$
+1/9/2024$A$$10090856$10024581$10013317$10027433$Metabolic dysfunction-associated steatohepatitis$Lipid metabolism and deposit disorders NEC$Lipid metabolism disorders$Metabolism and nutrition disorders$Metab$$10019805$N$
+1/9/2024$A$$10090857$10019833$10019654$10019805$Metabolic dysfunction-associated liver disease$Hepatocellular damage and hepatitis NEC$Hepatic and hepatobiliary disorders$Hepatobiliary disorders$Hepat$$10019805$Y$
+1/9/2024$A$$10090857$10024581$10013317$10027433$Metabolic dysfunction-associated liver disease$Lipid metabolism and deposit disorders NEC$Lipid metabolism disorders$Metabolism and nutrition disorders$Metab$$10019805$N$
+1/9/2024$A$$10090858$10028536$10024324$10005329$Myelodysplastic syndrome/myeloproliferative neoplasm overlap syndrome$Myelodysplastic syndromes$Leukaemias$Blood and lymphatic system disorders$Blood$$10029104$N$
+1/9/2024$A$$10090858$10028536$10024324$10029104$Myelodysplastic syndrome/myeloproliferative neoplasm overlap syndrome$Myelodysplastic syndromes$Leukaemias$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10090868$10031017$10031013$10017947$Pseudomonas stomatitis$Oral soft tissue infections$Oral soft tissue conditions$Gastrointestinal disorders$Gastr$$10021881$N$
+1/9/2024$A$$10090868$10037132$10004018$10021881$Pseudomonas stomatitis$Pseudomonal infections$Bacterial infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10090873$10052723$10019190$10042613$Pharyngo-laryngo-oesophagectomy$Head, neck and oral cavity therapeutic procedures NEC$Head and neck therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090878$10015908$10069888$10022117$Glaucoma drainage device exposure$Eye and ear procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10090878$10030047$10030046$10015919$Glaucoma drainage device exposure$Ocular injuries NEC$Ocular injuries$Eye disorders$Eye$$10022117$N$
+1/9/2024$A$$10090879$10052776$10028393$10028395$Prevertebral space infection$Musculoskeletal and connective tissue infections and inflammations NEC$Musculoskeletal and connective tissue disorders NEC$Musculoskeletal and connective tissue disorders$Musc$$10021881$N$
+1/9/2024$A$$10090879$10057192$10021879$10021881$Prevertebral space infection$Muscle and soft tissue infections$Infections - pathogen unspecified$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10090880$10017993$10017990$10017947$Intestinal ganglioneuromatosis$Gastrointestinal neoplasms NEC$Malignant and unspecified neoplasms gastrointestinal NEC$Gastrointestinal disorders$Gastr$$10029104$N$
+1/9/2024$A$$10090880$10029312$10029209$10029104$Intestinal ganglioneuromatosis$Neuromas$Nervous system neoplasms benign$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10090880$10029312$10029209$10029205$Intestinal ganglioneuromatosis$Neuromas$Nervous system neoplasms benign$Nervous system disorders$Nerv$$10029104$N$
+1/9/2024$A$$10090881$10071949$10010273$10036585$Exposed to maternal infection in utero$Exposures associated with pregnancy, delivery and lactation$Pregnancy, labour, delivery and postpartum conditions$Pregnancy, puerperium and perinatal conditions$Preg$$10022117$N$
+1/9/2024$A$$10090881$10071949$10071947$10022117$Exposed to maternal infection in utero$Exposures associated with pregnancy, delivery and lactation$Exposures, chemical injuries and poisoning$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10090883$10027659$10006295$10042613$Breast ablation$Breast therapeutic procedures NEC$Breast therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090884$10004047$10004018$10021881$Central nervous system bacterial infection$Bacterial infections NEC$Bacterial infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10090884$10021888$10007951$10029205$Central nervous system bacterial infection$Nervous system infections NEC$Central nervous system infections and inflammations$Nervous system disorders$Nerv$$10021881$N$
+1/9/2024$A$$10090885$10017854$10017969$10017947$Gastritis cystica profunda$Gastritis (excl infective)$Gastrointestinal inflammatory conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$A$$10090885$10017927$10069888$10022117$Gastritis cystica profunda$Gastrointestinal and hepatobiliary procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10017947$N$
+1/9/2024$A$$10090892$10034098$10047438$10021881$Papular-purpuric gloves-and-socks syndrome$Parvoviral infections$Viral infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10090892$10037555$10047043$10040785$Papular-purpuric gloves-and-socks syndrome$Purpura and related conditions$Skin vascular abnormalities$Skin and subcutaneous tissue disorders$Skin$$10021881$N$
+1/9/2024$A$$10090893$10047400$10004018$10021881$Vibrio fluvialis infection$Vibrio infections$Bacterial infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10090895$10044518$10007963$10029205$Traumatic subarachnoid haemorrhage$Traumatic central nervous system haemorrhages$Central nervous system vascular disorders$Nervous system disorders$Nerv$$10022117$N$
+1/9/2024$A$$10090895$10052638$10022114$10022117$Traumatic subarachnoid haemorrhage$Cerebral injuries NEC$Injuries NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10090897$10030866$10029295$10022891$Lacrimal gland biopsy$Ophthalmic histopathology and imaging procedures$Neurological, special senses and psychiatric investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090898$10068299$10002861$10037175$Hodophobia$Fear symptoms and phobic disorders (incl social phobia)$Anxiety disorders and symptoms$Psychiatric disorders$Psych$$10037175$Y$
+1/9/2024$A$$10090899$10068299$10002861$10037175$Fear of travelling$Fear symptoms and phobic disorders (incl social phobia)$Anxiety disorders and symptoms$Psychiatric disorders$Psych$$10037175$Y$
+1/9/2024$A$$10090901$10028739$10038686$10010331$Accessory ostium of maxillary sinus$Nasal disorders congenital$Respiratory disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10090901$10040743$10046304$10038738$Accessory ostium of maxillary sinus$Paranasal sinus disorders (excl infections and neoplasms)$Upper respiratory tract disorders (excl infections)$Respiratory, thoracic and mediastinal disorders$Resp$$10010331$N$
+1/9/2024$A$$10090902$10022947$10015957$10042613$Intracameral implant$Iris and ciliary body therapeutic procedures$Eye therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090904$10038602$10038592$10022891$Male genital tract ultrasound$Reproductive organ and breast imaging procedures$Reproductive organ and breast investigations (excl hormone analyses)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090905$10027679$10018018$10010331$Body stalk anomaly$Gastrointestinal tract disorders congenital NEC$Gastrointestinal tract disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10090905$10052777$10000073$10017947$Body stalk anomaly$Abdominal wall conditions NEC$Abdominal hernias and other abdominal wall conditions$Gastrointestinal disorders$Gastr$$10010331$N$
+1/9/2024$A$$10090906$10017927$10069888$10022117$Absent navel$Gastrointestinal and hepatobiliary procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10017947$N$
+1/9/2024$A$$10090906$10052777$10000073$10017947$Absent navel$Abdominal wall conditions NEC$Abdominal hernias and other abdominal wall conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$A$$10090911$10006233$10038608$10010331$Hereditary breast and ovarian cancer syndrome$Breast disorders congenital$Reproductive tract and breast disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10090911$10006292$10006291$10029104$Hereditary breast and ovarian cancer syndrome$Breast neoplasms unspecified malignancy$Breast neoplasms malignant and unspecified (incl nipple)$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10010331$N$
+1/9/2024$A$$10090911$10033121$10033283$10038604$Hereditary breast and ovarian cancer syndrome$Ovarian and fallopian tube cysts and neoplasms$Ovarian and fallopian tube disorders$Reproductive system and breast disorders$Repro$$10010331$N$
+1/9/2024$A$$10090912$10042259$10042258$10029205$Intracranial calcification$Structural brain disorders NEC$Structural brain disorders$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10090919$10028914$10019381$10021881$Pentastomiasis$Nematode infections$Helminthic disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10090919$10057190$10024970$10038738$Pentastomiasis$Respiratory tract infections NEC$Respiratory tract infections$Respiratory, thoracic and mediastinal disorders$Resp$$10021881$N$
+1/9/2024$A$$10090924$10030975$10039404$10017947$Salivary stasis$Oral dryness and saliva altered$Salivary gland conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$A$$10090926$10003828$10021505$10022891$Adrenal antibody test$Autoimmunity analyses$Immunology and allergy investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090927$10003828$10021505$10022891$Adrenal antibody test positive$Autoimmunity analyses$Immunology and allergy investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090928$10003828$10021505$10022891$Adrenal antibody test negative$Autoimmunity analyses$Immunology and allergy investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090930$10003839$10029317$10029205$Anticholinergic effect$Autonomic nervous system disorders$Neuromuscular disorders$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10090931$10022528$10062915$10018065$Cannabis interaction$Interactions$Therapeutic and nontherapeutic effects (excl toxicity)$General disorders and administration site conditions$Genrl$$10018065$Y$
+1/9/2024$A$$10090933$10007602$10069888$10022117$Coronary slow flow phenomenon$Cardiac and vascular procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10007541$N$
+1/9/2024$A$$10090933$10011085$10011082$10007541$Coronary slow flow phenomenon$Ischaemic coronary artery disorders$Coronary artery disorders$Cardiac disorders$Card$$10007541$Y$
+1/9/2024$A$$10090933$10065875$10003216$10047065$Coronary slow flow phenomenon$Coronary necrosis and vascular insufficiency$Arteriosclerosis, stenosis, vascular insufficiency and necrosis$Vascular disorders$Vasc$$10007541$N$
+1/9/2024$A$$10090938$10007948$10007963$10029205$Spontaneous subdural haematoma$Central nervous system haemorrhages and cerebrovascular accidents$Central nervous system vascular disorders$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10090938$10008206$10047075$10047065$Spontaneous subdural haematoma$Nervous system haemorrhagic disorders$Vascular haemorrhagic disorders$Vascular disorders$Vasc$$10029205$N$
+1/9/2024$A$$10090942$10046808$10029903$10042613$Vaginal pessary removal$Uterine therapeutic procedures$Obstetric and gynaecological therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090947$10012424$10014982$10040785$Prurigo pigmentosa$Dermal and epidermal conditions NEC$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10040785$Y$
+1/9/2024$A$$10090947$10018067$10003018$10027433$Prurigo pigmentosa$General nutritional disorders NEC$Appetite and general nutritional disorders$Metabolism and nutrition disorders$Metab$$10040785$N$
+1/9/2024$A$$10090951$10029511$10022114$10022117$Traumatic pain$Non-site specific injuries NEC$Injuries NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10090951$10033372$10018073$10018065$Traumatic pain$Pain and discomfort NEC$General system disorders NEC$General disorders and administration site conditions$Genrl$$10022117$N$
+1/9/2024$A$$10090952$10043891$10014938$10022891$Glucuronosyltransferase decreased$Tissue enzyme analyses NEC$Enzyme investigations NEC$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090956$10052566$10014982$10040785$Asymmetric periflexural exanthem of childhood$Rashes, eruptions and exanthems NEC$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10040785$Y$
+1/9/2024$A$$10090966$10011049$10002693$10015919$Corneal pseudoguttata$Corneal structural change, deposit and degeneration$Anterior eye structural change, deposit and degeneration$Eye disorders$Eye$$10015919$Y$
+1/9/2024$A$$10090967$10038896$10042261$10015919$Retinal pigment epithelium change$Retinal structural change, deposit and degeneration$Ocular structural change, deposit and degeneration NEC$Eye disorders$Eye$$10015919$Y$
+1/9/2024$A$$10090970$10007635$10028593$10007541$Hypothyroid cardiomyopathy$Cardiomyopathies$Myocardial disorders$Cardiac disorders$Card$$10007541$Y$
+1/9/2024$A$$10090970$10027428$10000546$10027433$Hypothyroid cardiomyopathy$Metabolic disorders NEC$Metabolism disorders NEC$Metabolism and nutrition disorders$Metab$$10007541$N$
+1/9/2024$A$$10090970$10043741$10043739$10014698$Hypothyroid cardiomyopathy$Thyroid hypofunction disorders$Thyroid gland disorders$Endocrine disorders$Endo$$10007541$N$
+1/9/2024$A$$10090972$10027682$10027665$10021428$Immune-mediated mucositis$Immune and associated conditions NEC$Immune disorders NEC$Immune system disorders$Immun$$10018065$N$
+1/9/2024$A$$10090972$10028114$10018073$10018065$Immune-mediated mucositis$Mucosal findings abnormal$General system disorders NEC$General disorders and administration site conditions$Genrl$$10018065$Y$
+1/9/2024$A$$10090974$10024531$10017987$10029104$Salivary gland myoepithelioma$Lip and oral cavity neoplasms benign$Gastrointestinal neoplasms benign$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10090974$10030968$10017934$10017947$Salivary gland myoepithelioma$Benign oral cavity neoplasms$Benign neoplasms gastrointestinal$Gastrointestinal disorders$Gastr$$10029104$N$
+1/9/2024$A$$10090975$10052725$10029903$10042613$Endometriosis surgical removal$Gynaecological therapeutic procedures NEC$Obstetric and gynaecological therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10090977$10029306$10029305$10029205$Copropraxia$Neurological signs and symptoms NEC$Neurological disorders NEC$Nervous system disorders$Nerv$$10037175$N$
+1/9/2024$A$$10090977$10042007$10008401$10037175$Copropraxia$Stereotypies and automatisms$Changes in physical activity$Psychiatric disorders$Psych$$10037175$Y$
+1/9/2024$A$$10090979$10007709$10043237$10028395$Van Neck-Odelberg disease$Cartilage disorders$Tendon, ligament and cartilage disorders$Musculoskeletal and connective tissue disorders$Musc$$10028395$Y$
+1/9/2024$A$$10090980$10038486$10038430$10038359$Renal perivascular epithelioid cell tumour$Renal neoplasms$Renal disorders (excl nephropathies)$Renal and urinary disorders$Renal$$10029104$N$
+1/9/2024$A$$10090980$10038487$10038363$10029104$Renal perivascular epithelioid cell tumour$Renal neoplasms benign$Renal and urinary tract neoplasms benign$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10090982$10027682$10027665$10021428$Immune-mediated proctitis$Immune and associated conditions NEC$Immune disorders NEC$Immune system disorders$Immun$$10017947$N$
+1/9/2024$A$$10090982$10036775$10017969$10017947$Immune-mediated proctitis$Rectal inflammations NEC$Gastrointestinal inflammatory conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$A$$10090983$10017921$10017969$10017947$Cuffitis$Gastrointestinal inflammatory disorders NEC$Gastrointestinal inflammatory conditions$Gastrointestinal disorders$Gastr$$10022117$N$
+1/9/2024$A$$10090983$10017927$10069888$10022117$Cuffitis$Gastrointestinal and hepatobiliary procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10090984$10044261$10044260$10022891$Blood germanium radioisotope increased$Toxicology laboratory analyses$Toxicology and therapeutic drug monitoring$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10090985$10007948$10007963$10029205$Thalamic microhaemorrhage$Central nervous system haemorrhages and cerebrovascular accidents$Central nervous system vascular disorders$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10090985$10008206$10047075$10047065$Thalamic microhaemorrhage$Nervous system haemorrhagic disorders$Vascular haemorrhagic disorders$Vascular disorders$Vasc$$10029205$N$
+1/9/2024$A$$10090987$10038486$10038430$10038359$Non-clear cell renal cell carcinoma$Renal neoplasms$Renal disorders (excl nephropathies)$Renal and urinary disorders$Renal$$10029104$N$
+1/9/2024$A$$10090987$10068208$10038364$10029104$Non-clear cell renal cell carcinoma$Renal neoplasms malignant$Renal and urinary tract neoplasms malignant and unspecified$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10090988$10019712$10019654$10019805$Hepatic vascular fistula$Hepatic vascular disorders$Hepatic and hepatobiliary disorders$Hepatobiliary disorders$Hepat$$10019805$Y$
+1/9/2024$A$$10090988$10057188$10047066$10047065$Hepatic vascular fistula$Site specific vascular disorders NEC$Vascular disorders NEC$Vascular disorders$Vasc$$10019805$N$
+1/9/2024$A$$10090991$10029318$10029317$10029205$Gowers' sign$Neuromuscular disorders NEC$Neuromuscular disorders$Nervous system disorders$Nerv$$10028395$N$
+1/9/2024$A$$10090991$10062913$10028302$10028395$Gowers' sign$Muscle weakness conditions$Muscle disorders$Musculoskeletal and connective tissue disorders$Musc$$10028395$Y$
+1/9/2024$A$$10090993$10021982$10002252$10021881$Tracheal pseudomembrane$Inflammatory disorders following infection$Ancillary infectious topics$Infections and infestations$Infec$$10022117$N$
+1/9/2024$A$$10090993$10044288$10046304$10038738$Tracheal pseudomembrane$Tracheal disorders (excl infections and neoplasms)$Upper respiratory tract disorders (excl infections)$Respiratory, thoracic and mediastinal disorders$Resp$$10022117$N$
+1/9/2024$A$$10090993$10080709$10069888$10022117$Tracheal pseudomembrane$Anaesthetic and allied procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10090996$10015295$10004018$10021881$Disseminated Escherichia infection$Escherichia infections$Bacterial infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10091001$10029559$10069888$10022117$Biopsy site complication$Non-site specific procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10091003$10072981$10087058$10022891$LAG-3 test negative$Cell marker analyses$Cytogenetic investigations and genetic analyses$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091004$10072981$10087058$10022891$LAG-3 expression$Cell marker analyses$Cytogenetic investigations and genetic analyses$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091005$10072981$10087058$10022891$LAG-3 test$Cell marker analyses$Cytogenetic investigations and genetic analyses$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091013$10027428$10000546$10027433$Hypoamylasaemia$Metabolic disorders NEC$Metabolism disorders NEC$Metabolism and nutrition disorders$Metab$$10027433$Y$
+1/9/2024$A$$10091015$10074475$10069888$10022117$Stoma site complication$Stoma complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10091016$10040877$10014982$10040785$Stoma site wound$Skin injuries and mechanical dermatoses$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10022117$N$
+1/9/2024$A$$10091016$10074475$10069888$10022117$Stoma site wound$Stoma complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10091019$10035777$10071947$10022117$Minamata disease$Poisoning and toxicity$Exposures, chemical injuries and poisoning$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10091019$10057185$10029305$10029205$Minamata disease$Nervous system disorders NEC$Neurological disorders NEC$Nervous system disorders$Nerv$$10022117$N$
+1/9/2024$A$$10091022$10071941$10071940$10022891$Fitzpatrick skin phototype$Physical examination procedures and organ system status$Physical examination and organ system status topics$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091023$10071941$10071940$10022891$Fitzpatrick skin phototype II$Physical examination procedures and organ system status$Physical examination and organ system status topics$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091024$10071941$10071940$10022891$Fitzpatrick skin phototype III$Physical examination procedures and organ system status$Physical examination and organ system status topics$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091025$10071941$10071940$10022891$Fitzpatrick skin phototype IV$Physical examination procedures and organ system status$Physical examination and organ system status topics$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091026$10071941$10071940$10022891$Fitzpatrick skin phototype VI$Physical examination procedures and organ system status$Physical examination and organ system status topics$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091028$10071941$10071940$10022891$Fitzpatrick skin phototype V$Physical examination procedures and organ system status$Physical examination and organ system status topics$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091029$10071941$10071940$10022891$Fitzpatrick skin phototype I$Physical examination procedures and organ system status$Physical examination and organ system status topics$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091031$10008183$10029295$10022891$Oligoclonal band assay$Cerebrospinal fluid tests (excl microbiology)$Neurological, special senses and psychiatric investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091033$10083625$10083624$10010331$ARID1A gene mutation$Gene mutations and other alterations NEC$Chromosomal abnormalities, gene alterations and gene variants$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10091034$10006555$10014982$10040785$Atypical Stevens-Johnson syndrome$Bullous conditions$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10017947$N$
+1/9/2024$A$$10091034$10021982$10002252$10021881$Atypical Stevens-Johnson syndrome$Inflammatory disorders following infection$Ancillary infectious topics$Infections and infestations$Infec$$10017947$N$
+1/9/2024$A$$10091034$10035777$10071947$10022117$Atypical Stevens-Johnson syndrome$Poisoning and toxicity$Exposures, chemical injuries and poisoning$Injury, poisoning and procedural complications$Inj&P$$10017947$N$
+1/9/2024$A$$10091034$10042129$10031013$10017947$Atypical Stevens-Johnson syndrome$Stomatitis and ulceration$Oral soft tissue conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$A$$10091046$10046569$10038362$10022891$Ureter biopsy normal$Urinary tract histopathology procedures$Renal and urinary tract investigations and urinalyses$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091047$10027530$10027529$10022891$Tracheal aspirate culture positive$Microbiology and serology tests NEC$Microbiology and serology investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091048$10040794$10040795$10042613$Decubitus ulcer treatment$Skin and subcutaneous tissue therapeutic procedures NEC$Skin and subcutaneous tissue therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091049$10018013$10017998$10042613$Intestinal neoplasm surgery$Gastrointestinal therapeutic procedures NEC$Gastrointestinal therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091050$10019808$10019809$10022891$Ultrasound liver elastography$Hepatobiliary imaging procedures$Hepatobiliary investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091051$10040674$10038612$10038604$Chronic prostatitis/chronic pelvic pain syndrome$Reproductive tract signs and symptoms NEC$Reproductive tract disorders NEC$Reproductive system and breast disorders$Repro$$10038604$Y$
+1/9/2024$A$$10091051$10046591$10046590$10038359$Chronic prostatitis/chronic pelvic pain syndrome$Urinary tract signs and symptoms NEC$Urinary tract signs and symptoms$Renal and urinary disorders$Renal$$10038604$N$
+1/9/2024$A$$10091052$10017962$10017971$10022891$Gastric occult blood test$Gastrointestinal histopathology procedures$Gastrointestinal investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091053$10027530$10027529$10022891$Tracheal aspirate culture negative$Microbiology and serology tests NEC$Microbiology and serology investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091054$10046569$10038362$10022891$Ureter biopsy abnormal$Urinary tract histopathology procedures$Renal and urinary tract investigations and urinalyses$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091055$10017962$10017971$10022891$Gastric occult blood test negative$Gastrointestinal histopathology procedures$Gastrointestinal investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091060$10049293$10014982$10040785$Psychogenic pruritus$Pruritus NEC$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10037175$N$
+1/9/2024$A$$10091060$10077547$10077546$10037175$Psychogenic pruritus$Somatic symptom disorders$Somatic symptom and related disorders$Psychiatric disorders$Psych$$10037175$Y$
+1/9/2024$A$$10091062$10010180$10038430$10038359$Chronic kidney disease-associated pruritus$Renal failure complications$Renal disorders (excl nephropathies)$Renal and urinary disorders$Renal$$10040785$N$
+1/9/2024$A$$10091062$10049293$10014982$10040785$Chronic kidney disease-associated pruritus$Pruritus NEC$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10040785$Y$
+1/9/2024$A$$10091063$10027156$10040900$10029104$Melanocytic tumour of uncertain malignant potential$Skin melanomas (excl ocular)$Skin neoplasms malignant and unspecified$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10091063$10027156$10040900$10040785$Melanocytic tumour of uncertain malignant potential$Skin melanomas (excl ocular)$Skin neoplasms malignant and unspecified$Skin and subcutaneous tissue disorders$Skin$$10029104$N$
+1/9/2024$A$$10091066$10000627$10004018$10021881$Actinomyces bacteraemia$Actinomycotic infectious disorders$Bacterial infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10091072$10027660$10007593$10042613$Pericardiodesis$Cardiac therapeutic procedures NEC$Cardiac therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091075$10010446$10010612$10038604$Uterine cervix agenesis$Congenital female reproductive tract disorders$Congenital reproductive tract and breast disorders$Reproductive system and breast disorders$Repro$$10010331$N$
+1/9/2024$A$$10091075$10016416$10038608$10010331$Uterine cervix agenesis$Female reproductive tract disorders congenital$Reproductive tract and breast disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10091076$10030059$10030061$10015919$Saccadic eye movement disorder$Ocular nerve and muscle disorders$Ocular neuromuscular disorders$Eye disorders$Eye$$10029205$N$
+1/9/2024$A$$10091076$10072984$10029305$10029205$Saccadic eye movement disorder$Coordination and balance disturbances$Neurological disorders NEC$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10091077$10002114$10017966$10017947$Anorectal herpes$Anal, rectal, perianal and perirectal infections$Gastrointestinal infections$Gastrointestinal disorders$Gastr$$10021881$N$
+1/9/2024$A$$10091077$10019972$10047438$10021881$Anorectal herpes$Herpes viral infections$Viral infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10091078$10002114$10017966$10017947$Anorectal herpes zoster$Anal, rectal, perianal and perirectal infections$Gastrointestinal infections$Gastrointestinal disorders$Gastr$$10021881$N$
+1/9/2024$A$$10091078$10019972$10047438$10021881$Anorectal herpes zoster$Herpes viral infections$Viral infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10091079$10014714$10029112$10014698$Neuroendocrine tumour of the thymus$Endocrine neoplasms NEC$Neoplastic and ectopic endocrinopathies$Endocrine disorders$Endo$$10029104$N$
+1/9/2024$A$$10091079$10027072$10013369$10038738$Neuroendocrine tumour of the thymus$Mediastinal disorders$Thoracic disorders (excl lung and pleura)$Respiratory, thoracic and mediastinal disorders$Resp$$10029104$N$
+1/9/2024$A$$10091079$10027081$10038666$10029104$Neuroendocrine tumour of the thymus$Mediastinal neoplasms malignant$Respiratory and mediastinal neoplasms malignant and unspecified$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10091079$10043677$10041641$10005329$Neuroendocrine tumour of the thymus$Thymus disorders$Spleen, lymphatic and reticuloendothelial system disorders$Blood and lymphatic system disorders$Blood$$10029104$N$
+1/9/2024$A$$10091082$10052724$10025309$10042613$Haematologic serotherapy$Haematological therapeutic procedures NEC$Haematological and lymphoid tissue therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091083$10022031$10034606$10029205$Hereditary sensory and autonomic neuropathy$Inherited neuropathies$Peripheral neuropathies$Nervous system disorders$Nerv$$10010331$N$
+1/9/2024$A$$10091083$10052632$10029299$10010331$Hereditary sensory and autonomic neuropathy$Peripheral nervous system disorders congenital NEC$Neurological disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10091084$10038890$10015957$10042613$Retinectomy$Retinal therapeutic procedures$Eye therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091085$10027700$10043413$10042613$Radioactive seed localisation$Therapeutic procedures NEC$Therapeutic procedures and supportive care NEC$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091099$10024502$10005944$10042613$Bone correction brace treatment$Limb therapeutic procedures$Bone and joint therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091101$10087056$10040879$10022891$Nikolsky's sign test$Skin histopathology and skin investigations NEC$Skin investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091102$10087056$10040879$10022891$Nikolsky's sign positive$Skin histopathology and skin investigations NEC$Skin investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091103$10087056$10040879$10022891$Nikolsky's sign negative$Skin histopathology and skin investigations NEC$Skin investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091104$10002042$10002086$10005329$Hypertransferrinaemia$Anaemia deficiencies$Anaemias nonhaemolytic and marrow depression$Blood and lymphatic system disorders$Blood$$10005329$Y$
+1/9/2024$A$$10091107$10006513$10047075$10047065$Congenital thrombotic thrombocytopenic purpura$Bruising, ecchymosis and purpura$Vascular haemorrhagic disorders$Vascular disorders$Vasc$$10010331$N$
+1/9/2024$A$$10091107$10018848$10005330$10010331$Congenital thrombotic thrombocytopenic purpura$Haematological disorders congenital NEC$Blood and lymphatic system disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10091107$10037555$10047043$10040785$Congenital thrombotic thrombocytopenic purpura$Purpura and related conditions$Skin vascular abnormalities$Skin and subcutaneous tissue disorders$Skin$$10010331$N$
+1/9/2024$A$$10091107$10043555$10035534$10005329$Congenital thrombotic thrombocytopenic purpura$Thrombocytopenias$Platelet disorders$Blood and lymphatic system disorders$Blood$$10010331$N$
+1/9/2024$A$$10091111$10047490$10027529$10022891$HTLV-2 test negative$Virus identification and serology$Microbiology and serology investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091112$10023221$10005944$10042613$Tibial tuberosity transfer$Joint therapeutic procedures$Bone and joint therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091116$10047078$10007512$10022891$Linogram$Vascular imaging procedures NEC$Cardiac and vascular investigations (excl enzyme tests)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091118$10052876$10041297$10042613$Pectoral implantation$Soft tissue therapeutic procedures NEC$Soft tissue therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091119$10010445$10027664$10010331$Embryo-foetal toxicity$Congenital disorders NEC$Congenital and hereditary disorders NEC$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10091119$10016850$10016849$10036585$Embryo-foetal toxicity$Foetal complications NEC$Foetal complications$Pregnancy, puerperium and perinatal conditions$Preg$$10010331$N$
+1/9/2024$A$$10091119$10073321$10071947$10022117$Embryo-foetal toxicity$Foetal and neonatal conditions associated with product exposure$Exposures, chemical injuries and poisoning$Injury, poisoning and procedural complications$Inj&P$$10010331$N$
+1/9/2024$A$$10091122$10077542$10077537$10077536$Material from non-qualified supplier used$Manufacturing materials issues$Product quality, supply, distribution, manufacturing and quality system issues$Product issues$Prod$$10077536$Y$
+1/9/2024$A$$10091123$10077539$10077537$10077536$Manufacturing equipment sterilisation issue$Manufacturing facilities and equipment issues$Product quality, supply, distribution, manufacturing and quality system issues$Product issues$Prod$$10077536$Y$
+1/9/2024$A$$10091124$10077541$10077537$10077536$Manufacturing laboratory analytical testing method management issue$Manufacturing laboratory controls issues$Product quality, supply, distribution, manufacturing and quality system issues$Product issues$Prod$$10077536$Y$
+1/9/2024$A$$10091131$10017988$10017934$10017947$Ileocaecal valve lipoma$Benign neoplasms gastrointestinal (excl oral cavity)$Benign neoplasms gastrointestinal$Gastrointestinal disorders$Gastr$$10029104$N$
+1/9/2024$A$$10091131$10024948$10017987$10029104$Ileocaecal valve lipoma$Lower gastrointestinal neoplasms benign$Gastrointestinal neoplasms benign$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10091132$10017536$10017528$10021881$Fungal enteritis$Fungal infections NEC$Fungal infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10091132$10022678$10017966$10017947$Fungal enteritis$Intestinal infections$Gastrointestinal infections$Gastrointestinal disorders$Gastr$$10021881$N$
+1/9/2024$A$$10091134$10068276$10018851$10022891$Bone marrow haemophagocytic macrophages present$Bone marrow and immune tissue histopathology procedures$Haematology investigations (incl blood groups)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091136$10010332$10010335$10029205$Carotid hypoplasia$Congenital and hereditary central nervous system disorders NEC$Congenital and peripartum neurological conditions$Nervous system disorders$Nerv$$10010331$N$
+1/9/2024$A$$10091136$10047047$10007510$10010331$Carotid hypoplasia$Vascular anomalies congenital NEC$Cardiac and vascular disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10091136$10047091$10047066$10047065$Carotid hypoplasia$Vascular malformations and acquired anomalies$Vascular disorders NEC$Vascular disorders$Vasc$$10010331$N$
+1/9/2024$A$$10091138$10008776$10042261$10015919$Vitreous wick syndrome$Choroid and vitreous structural change, deposit and degeneration$Ocular structural change, deposit and degeneration NEC$Eye disorders$Eye$$10022117$N$
+1/9/2024$A$$10091138$10015908$10069888$10022117$Vitreous wick syndrome$Eye and ear procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10091140$10068299$10002861$10037175$Bathmophobia$Fear symptoms and phobic disorders (incl social phobia)$Anxiety disorders and symptoms$Psychiatric disorders$Psych$$10037175$Y$
+1/9/2024$A$$10091145$10034005$10028037$10029205$Atypical parkinsonism$Parkinson's disease and parkinsonism$Movement disorders (incl parkinsonism)$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10091146$10039134$10039135$10021881$Neoehrlichiosis$Rickettsial infectious disorders NEC$Rickettsial infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10091148$10019712$10019654$10019805$Porto-sinusoidal vascular disorder$Hepatic vascular disorders$Hepatic and hepatobiliary disorders$Hepatobiliary disorders$Hepat$$10019805$Y$
+1/9/2024$A$$10091148$10036201$10057166$10047065$Porto-sinusoidal vascular disorder$Portal hypertensions$Vascular hypertensive disorders$Vascular disorders$Vasc$$10019805$N$
+1/9/2024$A$$10091153$10041544$10041543$10029205$Dorsal root ganglionopathy$Spinal cord and nerve root disorders NEC$Spinal cord and nerve root disorders$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10091154$10036998$10037000$10022891$Arginine level decreased$Protein analyses NEC$Protein and chemistry analyses NEC$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091155$10030315$10068775$10029104$Superior mediastinal syndrome$Oncologic complications and emergencies$Neoplasm related morbidities$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10047065$N$
+1/9/2024$A$$10091155$10044288$10046304$10038738$Superior mediastinal syndrome$Tracheal disorders (excl infections and neoplasms)$Upper respiratory tract disorders (excl infections)$Respiratory, thoracic and mediastinal disorders$Resp$$10047065$N$
+1/9/2024$A$$10091155$10052781$10003216$10047065$Superior mediastinal syndrome$Site specific necrosis and vascular insufficiency NEC$Arteriosclerosis, stenosis, vascular insufficiency and necrosis$Vascular disorders$Vasc$$10047065$Y$
+1/9/2024$A$$10091156$10017962$10017971$10022891$Mesenteric biopsy$Gastrointestinal histopathology procedures$Gastrointestinal investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091159$10027660$10007593$10042613$Pericardiolysis$Cardiac therapeutic procedures NEC$Cardiac therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091160$10028701$10040795$10042613$Nail bed repair$Nail therapeutic procedures$Skin and subcutaneous tissue therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091169$10069324$10077537$10077536$Failure of additional condition for nonprescription use$Product quality issues NEC$Product quality, supply, distribution, manufacturing and quality system issues$Product issues$Prod$$10077536$Y$
+1/9/2024$A$$10091170$10069324$10077537$10077536$Issue with additional condition for nonprescription use$Product quality issues NEC$Product quality, supply, distribution, manufacturing and quality system issues$Product issues$Prod$$10077536$Y$
+1/9/2024$A$$10091172$10029213$10029211$10029104$Ring shaped lateral ventricular nodule$Nervous system neoplasms unspecified malignancy NEC$Nervous system neoplasms malignant and unspecified NEC$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10091172$10029213$10029211$10029205$Ring shaped lateral ventricular nodule$Nervous system neoplasms unspecified malignancy NEC$Nervous system neoplasms malignant and unspecified NEC$Nervous system disorders$Nerv$$10029104$N$
+1/9/2024$A$$10091173$10017997$10018031$10017947$Left-sided portal hypertension$Gastrointestinal vascular occlusion and infarction$Gastrointestinal vascular conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$A$$10091173$10036201$10057166$10047065$Left-sided portal hypertension$Portal hypertensions$Vascular hypertensive disorders$Vascular disorders$Vasc$$10017947$N$
+1/9/2024$A$$10091179$10017988$10017934$10017947$Mucosal Schwann cell hamartoma$Benign neoplasms gastrointestinal (excl oral cavity)$Benign neoplasms gastrointestinal$Gastrointestinal disorders$Gastr$$10029104$N$
+1/9/2024$A$$10091179$10029210$10029209$10029104$Mucosal Schwann cell hamartoma$Nervous system neoplasms benign NEC$Nervous system neoplasms benign$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10091179$10029210$10029209$10029205$Mucosal Schwann cell hamartoma$Nervous system neoplasms benign NEC$Nervous system neoplasms benign$Nervous system disorders$Nerv$$10029104$N$
+1/9/2024$A$$10091180$10006000$10005944$10042613$Knee subchondroplasty$Bone therapeutic procedures NEC$Bone and joint therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091181$10072989$10015917$10015919$Dysfunctional tear syndrome$Lacrimation disorders$Eye disorders NEC$Eye disorders$Eye$$10015919$Y$
+1/9/2024$A$$10091182$10013929$10028037$10029205$Bobble-head doll syndrome$Dyskinesias and movement disorders NEC$Movement disorders (incl parkinsonism)$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10091183$10038454$10038362$10022891$Cystatin C decreased$Renal function analyses$Renal and urinary tract investigations and urinalyses$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091185$10047110$10007512$10022891$Vasoreactivity test$Vascular tests NEC (incl blood pressure)$Cardiac and vascular investigations (excl enzyme tests)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091190$10057171$10024450$10041244$Spinal prosthesis user$Disability issues$Lifestyle issues$Social circumstances$SocCi$$10041244$Y$
+1/9/2024$A$$10091195$10028380$10028396$10010331$Koolen-de Vries syndrome$Musculoskeletal and connective tissue disorders of face, neck and jaw congenital$Musculoskeletal and connective tissue disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10091195$10028380$10028396$10028395$Koolen-de Vries syndrome$Musculoskeletal and connective tissue disorders of face, neck and jaw congenital$Musculoskeletal and connective tissue disorders congenital$Musculoskeletal and connective tissue disorders$Musc$$10010331$N$
+1/9/2024$A$$10091195$10077548$10009841$10037175$Koolen-de Vries syndrome$Intellectual disabilities$Cognitive and attention disorders and disturbances$Psychiatric disorders$Psych$$10010331$N$
+1/9/2024$A$$10091195$10077548$10057167$10029205$Koolen-de Vries syndrome$Intellectual disabilities$Mental impairment disorders$Nervous system disorders$Nerv$$10010331$N$
+1/9/2024$A$$10091196$10075883$10043413$10042613$Head fixation$Patient positioning$Therapeutic procedures and supportive care NEC$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091198$10057198$10047438$10021881$Mayaro virus disease$Arboviral infections NEC$Viral infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10091204$10023617$10015957$10042613$Lacrimal apparatus syringing$Lacrimal apparatus therapeutic procedures$Eye therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091205$10017927$10069888$10022117$Procedural pancreatitis$Gastrointestinal and hepatobiliary procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10017947$N$
+1/9/2024$A$$10091205$10033646$10015674$10017947$Procedural pancreatitis$Acute and chronic pancreatitis$Exocrine pancreas conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$A$$10091210$10025135$10010761$10028395$Lupus retinopathy$Lupus erythematosus (incl subtypes)$Connective tissue disorders (excl congenital)$Musculoskeletal and connective tissue disorders$Musc$$10015919$N$
+1/9/2024$A$$10091210$10025136$10003816$10021428$Lupus retinopathy$Lupus erythematosus and associated conditions$Autoimmune disorders$Immune system disorders$Immun$$10015919$N$
+1/9/2024$A$$10091210$10038932$10047060$10015919$Lupus retinopathy$Retinopathies NEC$Retina, choroid and vitreous haemorrhages and vascular disorders$Eye disorders$Eye$$10015919$Y$
+1/9/2024$A$$10091211$10030864$10029295$10022891$Amsler grid test$Ophthalmic function diagnostic procedures$Neurological, special senses and psychiatric investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091212$10007542$10007510$10010331$Cardiac ventricular diverticulum$Cardiac disorders congenital NEC$Cardiac and vascular disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10091212$10010397$10010394$10007541$Cardiac ventricular diverticulum$Congenital cardiac structural defects NEC$Congenital cardiac disorders$Cardiac disorders$Card$$10010331$N$
+1/9/2024$A$$10091214$10008431$10037000$10022891$Homovanillic acid increased$Chemistry analyses NEC$Protein and chemistry analyses NEC$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091216$10012776$10024450$10041244$Pescetarian diet$Dietary and nutritional issues$Lifestyle issues$Social circumstances$SocCi$$10041244$Y$
+1/9/2024$A$$10091222$10026660$10017990$10017947$Myoepithelial carcinoma of salivary gland$Malignant oral cavity neoplasms$Malignant and unspecified neoplasms gastrointestinal NEC$Gastrointestinal disorders$Gastr$$10029104$N$
+1/9/2024$A$$10091222$10039396$10017991$10029104$Myoepithelial carcinoma of salivary gland$Salivary gland neoplasms malignant$Gastrointestinal neoplasms malignant and unspecified$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10091223$10017629$10017628$10019805$Bicameral gallbladder$Gallbladder disorders NEC$Gallbladder disorders$Hepatobiliary disorders$Hepat$$10019805$Y$
+1/9/2024$A$$10091224$10021854$10025518$10038604$Gonococcal tysonitis$Penile and scrotal infections and inflammations$Male reproductive tract infections and inflammations$Reproductive system and breast disorders$Repro$$10021881$N$
+1/9/2024$A$$10091224$10028909$10004018$10021881$Gonococcal tysonitis$Neisseria infections$Bacterial infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10091226$10024502$10005944$10042613$Scapulectomy$Limb therapeutic procedures$Bone and joint therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091228$10041590$10009720$10042613$Spinal rod adjustment$Spine and spinal cord therapeutic procedures$Nervous system, skull and spine therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091231$10028394$10028387$10022891$Health assessment questionnaire score decreased$Musculoskeletal and soft tissue tests NEC$Musculoskeletal and soft tissue investigations (excl enzyme tests)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091232$10028394$10028387$10022891$Health assessment questionnaire score$Musculoskeletal and soft tissue tests NEC$Musculoskeletal and soft tissue investigations (excl enzyme tests)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091233$10028394$10028387$10022891$Health assessment questionnaire score increased$Musculoskeletal and soft tissue tests NEC$Musculoskeletal and soft tissue investigations (excl enzyme tests)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091234$10028394$10028387$10022891$BASDAI score decreased$Musculoskeletal and soft tissue tests NEC$Musculoskeletal and soft tissue investigations (excl enzyme tests)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091235$10028394$10028387$10022891$BASDAI score$Musculoskeletal and soft tissue tests NEC$Musculoskeletal and soft tissue investigations (excl enzyme tests)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091236$10028394$10028387$10022891$BASDAI score increased$Musculoskeletal and soft tissue tests NEC$Musculoskeletal and soft tissue investigations (excl enzyme tests)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091246$10027335$10013326$10038604$Catamenial epilepsy$Menstruation and uterine bleeding NEC$Menstrual cycle and uterine bleeding disorders$Reproductive system and breast disorders$Repro$$10029205$N$
+1/9/2024$A$$10091246$10039912$10039911$10029205$Catamenial epilepsy$Seizures and seizure disorders NEC$Seizures (incl subtypes)$Nervous system disorders$Nerv$$10029205$Y$
+1/9/2024$A$$10091251$10040489$10018057$10041244$Sterilised partner$Sexuality issues$Gender related factors$Social circumstances$SocCi$$10041244$Y$
+1/9/2024$A$$10091252$10027700$10043413$10042613$Hyaluronic acid injection$Therapeutic procedures NEC$Therapeutic procedures and supportive care NEC$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091256$10039407$10039404$10017947$Parotid calcification$Salivary gland disorders NEC$Salivary gland conditions$Gastrointestinal disorders$Gastr$$10017947$Y$
+1/9/2024$A$$10091257$10038896$10042261$10015919$Macular pigmentary changes$Retinal structural change, deposit and degeneration$Ocular structural change, deposit and degeneration NEC$Eye disorders$Eye$$10015919$Y$
+1/9/2024$A$$10091258$10027588$10019190$10042613$Auditory tube catheterisation$Middle ear therapeutic procedures$Head and neck therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091259$10028380$10028396$10010331$Agnathia$Musculoskeletal and connective tissue disorders of face, neck and jaw congenital$Musculoskeletal and connective tissue disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10091259$10028380$10028396$10028395$Agnathia$Musculoskeletal and connective tissue disorders of face, neck and jaw congenital$Musculoskeletal and connective tissue disorders congenital$Musculoskeletal and connective tissue disorders$Musc$$10010331$N$
+1/9/2024$A$$10091260$10038443$10038430$10038359$Sepsis associated acute kidney injury$Renal failure and impairment$Renal disorders (excl nephropathies)$Renal and urinary disorders$Renal$$10021881$N$
+1/9/2024$A$$10091260$10040054$10021879$10021881$Sepsis associated acute kidney injury$Sepsis, bacteraemia, viraemia and fungaemia NEC$Infections - pathogen unspecified$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10091261$10040957$10009720$10042613$Duraplasty$Skull and brain therapeutic procedures$Nervous system, skull and spine therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091262$10031028$10015957$10042613$Eyeball cerclage$Orbit and globe therapeutic procedures$Eye therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091263$10004675$10019818$10042613$Endoscopic ultrasound-guided hepaticogastrostomy$Biliary tract and gallbladder therapeutic procedures$Hepatobiliary therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091264$10072981$10087058$10022891$B-cell leukaemia/lymphoma panel$Cell marker analyses$Cytogenetic investigations and genetic analyses$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091270$10010447$10010612$10038604$Mullerian duct cyst$Congenital male reproductive tract disorders$Congenital reproductive tract and breast disorders$Reproductive system and breast disorders$Repro$$10010331$N$
+1/9/2024$A$$10091270$10025517$10038608$10010331$Mullerian duct cyst$Male reproductive tract disorders congenital$Reproductive tract and breast disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10091271$10006000$10005944$10042613$Osteoplasty$Bone therapeutic procedures NEC$Bone and joint therapeutic procedures$Surgical and medical procedures$Surg$$10042613$Y$
+1/9/2024$A$$10091275$10007574$10007512$10022891$Cardiothoracic ratio decreased$Cardiac imaging procedures$Cardiac and vascular investigations (excl enzyme tests)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091276$10011049$10002693$10015919$Interface fluid syndrome$Corneal structural change, deposit and degeneration$Anterior eye structural change, deposit and degeneration$Eye disorders$Eye$$10022117$N$
+1/9/2024$A$$10091276$10015908$10069888$10022117$Interface fluid syndrome$Eye and ear procedural complications$Procedural related injuries and complications NEC$Injury, poisoning and procedural complications$Inj&P$$10022117$Y$
+1/9/2024$A$$10091280$10021886$10016417$10038604$Desquamative inflammatory vaginitis$Vaginal and vulval infections and inflammations$Female reproductive tract infections and inflammations$Reproductive system and breast disorders$Repro$$10038604$Y$
+1/9/2024$A$$10091281$10033724$10047438$10021881$Human papillomavirus reactivation$Papilloma viral infections$Viral infectious disorders$Infections and infestations$Infec$$10021881$Y$
+1/9/2024$A$$10091282$10017992$10017991$10029104$Gastrointestinal autonomic nerve tumour$Gastrointestinal neoplasms malignant NEC$Gastrointestinal neoplasms malignant and unspecified$Neoplasms benign, malignant and unspecified (incl cysts and polyps)$Neopl$$10029104$Y$
+1/9/2024$A$$10091282$10017993$10017990$10017947$Gastrointestinal autonomic nerve tumour$Gastrointestinal neoplasms NEC$Malignant and unspecified neoplasms gastrointestinal NEC$Gastrointestinal disorders$Gastr$$10029104$N$
+1/9/2024$A$$10091283$10029285$10029295$10022891$Ice pack test$Neurologic diagnostic procedures$Neurological, special senses and psychiatric investigations$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091284$10022892$10022893$10022891$Activities of daily living assessment$Investigations NEC$Investigations, imaging and histopathology procedures NEC$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091285$10001349$10014699$10010331$Adrenal-renal fusion anomaly$Adrenal disorders congenital$Endocrine disorders congenital$Congenital, familial and genetic disorders$Cong$$10010331$Y$
+1/9/2024$A$$10091285$10001354$10001353$10014698$Adrenal-renal fusion anomaly$Adrenal gland disorders NEC$Adrenal gland disorders$Endocrine disorders$Endo$$10010331$N$
+1/9/2024$A$$10091285$10038529$10038430$10038359$Adrenal-renal fusion anomaly$Renal structural abnormalities and trauma$Renal disorders (excl nephropathies)$Renal and urinary disorders$Renal$$10010331$N$
+1/9/2024$A$$10091289$10007635$10028593$10007541$Arrhythmia induced cardiomyopathy$Cardiomyopathies$Myocardial disorders$Cardiac disorders$Card$$10007541$Y$
+1/9/2024$A$$10091290$10005992$10013296$10027433$Neonatal metabolic bone disease$Bone metabolism disorders$Bone, calcium, magnesium and phosphorus metabolism disorders$Metabolism and nutrition disorders$Metab$$10028395$N$
+1/9/2024$A$$10091290$10027425$10005959$10028395$Neonatal metabolic bone disease$Metabolic bone disorders$Bone disorders (excl congenital and fractures)$Musculoskeletal and connective tissue disorders$Musc$$10028395$Y$
+1/9/2024$A$$10091290$10028961$10028920$10036585$Neonatal metabolic bone disease$Neonatal metabolic and endocrine disorders$Neonatal and perinatal conditions$Pregnancy, puerperium and perinatal conditions$Preg$$10028395$N$
+1/9/2024$A$$10091291$10012435$10014982$10040785$Prurigo strophulus$Dermatitis and eczema$Epidermal and dermal conditions$Skin and subcutaneous tissue disorders$Skin$$10040785$Y$
+1/9/2024$A$$10091291$10027654$10001708$10021428$Prurigo strophulus$Allergic conditions NEC$Allergic conditions$Immune system disorders$Immun$$10040785$N$
+1/9/2024$A$$10091292$10016850$10016849$10036585$Foetal urinary tract dilatation$Foetal complications NEC$Foetal complications$Pregnancy, puerperium and perinatal conditions$Preg$$10038359$N$
+1/9/2024$A$$10091292$10046591$10046590$10038359$Foetal urinary tract dilatation$Urinary tract signs and symptoms NEC$Urinary tract signs and symptoms$Renal and urinary disorders$Renal$$10038359$Y$
+1/9/2024$A$$10091295$10071950$10087058$10022891$Wilms' tumour gene analysis$Gene analyses$Cytogenetic investigations and genetic analyses$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091298$10001373$10014706$10022891$Vanillyl mandelic acid decreased$Adrenal medulla tests$Endocrine investigations (incl sex hormones)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091299$10001373$10014706$10022891$Vanillyl mandelic acid$Adrenal medulla tests$Endocrine investigations (incl sex hormones)$Investigations$Inv$$10022891$Y$
+1/9/2024$A$$10091300$10001373$10014706$10022891$Vanillyl mandelic acid increased$Adrenal medulla tests$Endocrine investigations (incl sex hormones)$Investigations$Inv$$10022891$Y$

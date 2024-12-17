@@ -1,0 +1,162 @@
+---
+title: "MeddraConvert"
+author: "Jiaxuan"
+date: "2024-10-23"
+output: html_document
+---
+
+## Connect to DB
+```{r}
+library(DBI)
+library(RPostgres)
+con <- dbConnect(RPostgres::Postgres(),
+                 dbname = "meddra2",
+                 host = "localhost",   # or the specific host if hosted elsewhere
+                 port = 5432,          # default PostgreSQL port
+                 user = "postgres",
+                 password = "12345678Jxs!")
+
+dbDisconnect(con)
+```
+
+## Read the Meddra Files to DB
+
+```{r}
+library(readr)
+# Define the file path
+llt_file_path <- "MedDRA_27_1_English/MedAscii/llt.asc"
+
+# Define column names as per MedDRA LLT structure
+col_names <- c("llt_code", "llt_name", "pt_code", "llt_whoart_code", 
+               "llt_harts_code", "llt_costart_sym", "llt_icd9_code", 
+               "llt_icd9cm_code", "llt_icd10_code", "llt_currency", 
+               "llt_jart_code")
+
+llt <- read_delim(llt_file_path, delim = "$", col_names = col_names, 
+                  quote = "\"", escape_double = FALSE, trim_ws = TRUE)
+
+llt <- llt[, colSums(is.na(llt)) < nrow(llt)]
+
+# Create the new table
+create_table_query <- "
+CREATE TABLE llt_table (
+  llt_code BIGINT NOT NULL,
+  llt_name VARCHAR(255) NOT NULL,
+  pt_code BIGINT,
+  llt_whoart_code VARCHAR(7),
+  llt_harts_code BIGINT,
+  llt_costart_sym VARCHAR(21),
+  llt_icd9_code VARCHAR(8),
+  llt_icd9cm_code VARCHAR(8),
+  llt_icd10_code VARCHAR(8),
+  llt_currency VARCHAR(1),
+  llt_jart_code VARCHAR(6)
+);"
+dbExecute(con, create_table_query)
+
+cat("Table 'llt_table' created successfully.")
+
+dbWriteTable(con, "llt_table", llt, append = TRUE, row.names = FALSE)
+
+cat("Data successfully loaded into 'llt_table'.")
+
+
+
+# Read the PT Table
+pt_file_path <- "MedDRA_27_1_English/MedAscii/pt.asc"
+
+# Define the column names as per the table
+pt_col_names <- c("pt_code", "pt_name", "null_field", "pt_soc_code", 
+               "pt_harts_code", "pt_costart_sym", "pt_icd9_code", 
+               "pt_icd9cm_code", "pt_icd10_code",  
+               "llt_jart_code")
+
+
+pt <- read_delim(pt_file_path, delim = "$", col_names = col_names, 
+                  quote = "\"", escape_double = FALSE, trim_ws = TRUE)
+
+pt <- pt[, colSums(is.na(pt)) < nrow(pt)]
+
+pt_create_table_query <- "
+CREATE TABLE pt_table (
+  llt_code BIGINT NOT NULL,
+  llt_name VARCHAR(100),
+  pt_code BIGINT,
+  pt_name VARCHAR(100),
+  null_field VARCHAR(1),
+  pt_soc_code BIGINT,
+  pt_whoart_code VARCHAR(7),
+  llt_whoart_code BIGINT,
+  pt_harts_code BIGINT,
+  pt_costart_sym VARCHAR(21),
+  pt_icd9_code VARCHAR(8),
+  pt_icd9cm_code VARCHAR(8),
+  pt_icd10_code VARCHAR(8),
+  pt_jart_code VARCHAR(6)
+);
+"
+dbExecute(con, pt_create_table_query)
+
+cat("Table 'pt_table' created successfully.")
+
+dbWriteTable(con, "pt_table", pt, append = TRUE, row.names = FALSE)
+
+cat("Data successfully loaded into 'pt_table'.")
+```
+
+## DB query based on excel files
+
+```{r}
+library(DBI)
+library(readxl)
+library(writexl)
+
+library(DBI)
+library(RPostgres)
+library(readxl)
+library(writexl)
+
+
+input_folder <- "Original Files"
+output_folder <- "Updated Files"
+
+if (!dir.exists(output_folder)) {
+  dir.create(output_folder)
+}
+
+
+excel_files <- list.files(input_folder, pattern = "\\.xlsx$", full.names = TRUE)
+
+for (file_path in excel_files) {
+  
+  data <- read_excel(file_path)
+  data$llt_code <- NA
+  data$pt_code <- NA
+  
+  for (i in 1:nrow(data)) {
+    reaction_name <- data$Reaction[i]
+    
+    if (!is.na(reaction_name)) {
+      reaction_name <- gsub("'", "''", reaction_name) 
+      query <- sprintf("SELECT llt_code, pt_code FROM llt_table WHERE llt_name ILIKE '%s';", reaction_name)
+      
+      result <- dbGetQuery(con, query)
+      
+      if (nrow(result) > 0) {
+        data$llt_code[i] <- as.character(result$llt_code[1])
+        data$pt_code[i] <- as.character(result$pt_code[1])
+      }
+    }
+  }
+  
+  original_filename <- basename(file_path)
+  output_file <- file.path(output_folder, paste0("Updated_", original_filename))
+  
+  write_xlsx(data, output_file)
+  
+  cat(sprintf("File updated and saved: %s\n", output_file))
+}
+
+cat("All files have been updated successfully.\n")
+
+```

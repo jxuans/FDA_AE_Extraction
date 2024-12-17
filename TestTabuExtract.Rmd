@@ -12,5 +12,61 @@ library(tabulapdf)
 out <- extract_tables("Tasigna_Label.pdf")
 AE <- out[[8]][2]
 AE <- AE[is.na(AE)==0, ]
-View(AE)
+View(AE) 
+```
+
+```{r}
+# Install required packages if not already installed
+if (!require("pdftools")) install.packages("pdftools")
+
+# Load the library
+library(pdftools)
+
+# Path to the PDF file
+pdf_file <- "Tasigna_Label.pdf"
+
+# Extract text from the PDF
+pdf_text <- pdf_text(pdf_file)
+
+# Combine all pages into a single string
+all_text <- paste(pdf_text, collapse = "\n")
+
+keyword <- "adverse reactions"
+
+# Search for the keyword in the string
+keyword_found <- grepl(keyword, all_text, ignore.case = TRUE) # Use ignore.case = TRUE for case-insensitive search
+
+# Check the result
+if (keyword_found) {
+  print("Keyword found!")
+} else {
+  print("Keyword not found.")
+}
+
+# Function to extract table numbers from a specific section
+extract_table_numbers <- function(all_text, section) {
+  # Use a regex to locate the section and extract its content
+  section_pattern <- paste0(section, ".*?(?=\\n\\d+\\.\\d+|\\Z)") # Match until the next section or end of text
+  section_text <- regmatches(all_text, gregexpr(section_pattern, all_text, perl = TRUE))[[1]]
+  
+  if (length(section_text) > 0) {
+    # Extract table numbers within the section
+    table_pattern <- "Table\\s*(\\d+)" # Pattern for table numbers
+    table_matches <- regmatches(section_text, gregexpr(table_pattern, section_text, perl = TRUE))
+    table_numbers <- as.numeric(unlist(regmatches(table_matches, gregexpr("\\d+", table_matches[[1]]))))
+    return(table_numbers)
+  } else {
+    return(NULL) # Return NULL if section not found
+  }
+}
+
+# Specify the section (e.g., "6.1")
+section_to_search <- "6.1      Clinical Trials Experience"
+
+# Extract table numbers from the specified section
+table_numbers <- extract_table_numbers(all_text, section_to_search)
+
+# Print the extracted table numbers
+print(table_numbers)
+
 ```
