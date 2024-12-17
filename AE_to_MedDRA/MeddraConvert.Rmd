@@ -180,7 +180,7 @@ for (file_path in excel_files) {
 cat("All files have been updated successfully.\n")
 
 ```
-
+### individual query from DB
 ```{r}
 query <- "SELECT llt_name, llt_code, pt_code FROM llt_table WHERE llt_name ILIKE  'Cardiac and Arterial Vascular Occlusive Events';"
 
