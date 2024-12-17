@@ -1,0 +1,49 @@
+
+```{r}
+if (!require(pdftools)) install.packages("pdftools")
+if (!require(stringr)) install.packages("stringr")
+if (!require(dplyr)) install.packages("dplyr")
+
+library(pdftools)
+library(stringr)
+library(dplyr)
+
+# pdf_path <- "Tasigna_Label.pdf"
+input_folder <- "Labels"
+output_folder <- "AE_to_MedDRA/Original Files"
+
+label_files <- list.files(input_folder, pattern = "\\.pdf$", full.names = TRUE)
+
+for (pdf_path in label_files){
+  
+pdf_text <- pdf_text(pdf_path)
+pdf_string <- paste(pdf_text, collapse = " ")
+
+keyword_start <- "Additional Data From Clinical Trials"
+keyword_end <- "6.2      Postmarketing Experience"
+
+pattern <- paste0("(?<=\\b", keyword_start, "\\b)(.*?)(?=\\b", keyword_end, "\\b)")
+extracted_text <- str_extract(pdf_string, regex(pattern, ignore_case = TRUE, dotall = TRUE))
+
+if (!is.na(extracted_text)) {
+  split_words <- unlist(str_split(extracted_text, "[,\\.\\:\\(\\)]", simplify = FALSE))
+  split_words <- str_trim(split_words)
+  split_words <- split_words[split_words != ""]
+  
+  result_df <- data.frame(Reaction = split_words, stringsAsFactors = FALSE)
+  
+  result_df$Reaction <- gsub("\\s+", " ", gsub("[\r\n]+", " ", result_df$Reaction))
+
+  original_filename <- tools::file_path_sans_ext(basename(pdf_path))
+  output_filename <- paste0("AdditionalClinicalTrials_", original_filename, ".csv")
+  output_file <- file.path(output_folder, output_filename)
+
+  
+  write.csv(result_df, output_file, row.names = FALSE)
+} else {
+  cat("Keywords not found or text between them is empty.\n")
+}
+}
+cat("All files have been processed and saved in /AE_to_MedDRA/Original Files.\n")
+
+```

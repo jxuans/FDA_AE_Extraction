@@ -125,11 +125,22 @@ if (!dir.exists(output_folder)) {
 }
 
 
-excel_files <- list.files(input_folder, pattern = "\\.xlsx$", full.names = TRUE)
+excel_files <- list.files(input_folder, pattern = "\\.(xlsx|csv)$", full.names = TRUE)
 
 for (file_path in excel_files) {
+
+  if (grepl("\\.xlsx$", file_path, ignore.case = TRUE)) {
+    data <- read_excel(file_path)
+  } else if (grepl("\\.csv$", file_path, ignore.case = TRUE)) {
+    data <- read.csv(file_path, stringsAsFactors = FALSE)
+  } else {
+    next  # Skip files that are neither .xlsx nor .csv
+  }
   
-  data <- read_excel(file_path)
+  # Print file being processed (for debugging)
+  cat("Processing file:", file_path, "\n")
+  
+  # Further operations on 'data' can be added here
   data$llt_code <- NA
   data$pt_code <- NA
   
@@ -148,15 +159,36 @@ for (file_path in excel_files) {
       }
     }
   }
+  data <- data[!(is.na(data$pt_code) & is.na(data$llt_code)), ] # remove all empty code mismatch
+  data <- data[!grepl("^\\d+%$", data$Reaction), ] # remove all "X%" mismatch
   
   original_filename <- basename(file_path)
   output_file <- file.path(output_folder, paste0("Updated_", original_filename))
+
+  if (grepl("\\.xlsx$", file_path, ignore.case = TRUE)) {
+    write_xlsx(data, output_file)
+  } else if (grepl("\\.csv$", file_path, ignore.case = TRUE)) {
+    write.csv(data, output_file, row.names = FALSE)
+  } else {
+    next  # Skip files that are neither .xlsx nor .csv
+  }
   
-  write_xlsx(data, output_file)
   
   cat(sprintf("File updated and saved: %s\n", output_file))
 }
 
 cat("All files have been updated successfully.\n")
+
+```
+
+```{r}
+query <- "SELECT llt_name, llt_code, pt_code FROM llt_table WHERE llt_code = '10000002';"
+
+result <- dbGetQuery(con, query)
+
+print(result)
+
+# Close the database connection
+# dbDisconnect(con)
 
 ```
