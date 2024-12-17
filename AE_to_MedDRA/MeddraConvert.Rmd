@@ -16,7 +16,7 @@ con <- dbConnect(RPostgres::Postgres(),
                  user = "postgres",
                  password = "12345678Jxs!")
 
-dbDisconnect(con)
+# dbDisconnect(con)
 ```
 
 ## Read the Meddra Files to DB
@@ -182,7 +182,7 @@ cat("All files have been updated successfully.\n")
 ```
 
 ```{r}
-query <- "SELECT llt_name, llt_code, pt_code FROM llt_table WHERE llt_code = '10000002';"
+query <- "SELECT llt_name, llt_code, pt_code FROM llt_table WHERE llt_name ILIKE  'Cardiac and Arterial Vascular Occlusive Events';"
 
 result <- dbGetQuery(con, query)
 
