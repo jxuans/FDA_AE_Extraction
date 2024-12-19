@@ -134,13 +134,13 @@ for (file_path in excel_files) {
   } else if (grepl("\\.csv$", file_path, ignore.case = TRUE)) {
     data <- read.csv(file_path, stringsAsFactors = FALSE)
   } else {
-    next  # Skip files that are neither .xlsx nor .csv
+    next
   }
   
-  # Print file being processed (for debugging)
+
   cat("Processing file:", file_path, "\n")
   
-  # Further operations on 'data' can be added here
+
   data$llt_code <- NA
   data$pt_code <- NA
   
@@ -163,14 +163,14 @@ for (file_path in excel_files) {
   data <- data[!grepl("^\\d+%$", data$Reaction), ] # remove all "X%" mismatch
   
   original_filename <- basename(file_path)
-  output_file <- file.path(output_folder, paste0("Updated_", original_filename))
+  output_file <- file.path(output_folder, paste0("MedDRA_", original_filename))
 
   if (grepl("\\.xlsx$", file_path, ignore.case = TRUE)) {
     write_xlsx(data, output_file)
   } else if (grepl("\\.csv$", file_path, ignore.case = TRUE)) {
     write.csv(data, output_file, row.names = FALSE)
   } else {
-    next  # Skip files that are neither .xlsx nor .csv
+    next
   }
   
   
@@ -182,7 +182,7 @@ cat("All files have been updated successfully.\n")
 ```
 ### individual query from DB
 ```{r}
-query <- "SELECT llt_name, llt_code, pt_code FROM llt_table WHERE llt_name ILIKE  'Cardiac and Arterial Vascular Occlusive Events';"
+query <- "SELECT llt_name, llt_code, pt_code FROM llt_table WHERE llt_name ILIKE  'Myelosuppression';"
 
 result <- dbGetQuery(con, query)
 

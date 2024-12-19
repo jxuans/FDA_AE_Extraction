@@ -11,77 +11,157 @@ library(pdftools)
 library(stringr)
 library(dplyr)
 
-
 input_folder <- "Labels"
 output_folder <- "AE_to_MedDRA/Original Files"
 
+if (!dir.exists(output_folder)) {
+  dir.create(output_folder, recursive = TRUE)
+}
+
+# List all PDF files
+label_files <- list.files(input_folder, pattern = "\\.pdf$", full.names = TRUE)
+
+
+for (pdf_path in label_files) {
+  pdf_text <- pdf_text(pdf_path)
+  pdf_string <- paste(pdf_text, collapse = " ")
+  
+
+  result_df <- data.frame(Reaction = character(), Category = character(), stringsAsFactors = FALSE)
+  
+  ### Extract Additional Data from Clinical Trials
+  keyword_start <- "Additional Data From Clinical Trials"
+  keyword_end <- "6.2      Postmarketing Experience"
+  pattern <- paste0("(?<=\\b", keyword_start, "\\b)(.*?)(?=\\b", keyword_end, "\\b)")
+  
+  extracted_text <- str_extract(pdf_string, regex(pattern, ignore_case = TRUE, dotall = TRUE))
+  
+  if (!is.na(extracted_text)) {
+    split_words <- unlist(str_split(extracted_text, "[,\\.\\:\\(\\)\\[\\]\\n]", simplify = FALSE))
+    split_words <- str_trim(split_words)
+    split_words <- split_words[split_words != ""]
+    
+    result_df <- rbind(result_df, data.frame(Reaction = split_words, Category = "Additional Clinical Trial Data"))
+  }
+  
+  ### Extract Bullet Points before 6.1
+  keyword_start_2 <- "6        ADVERSE REACTIONS"
+  keyword_end_2 <- "6.1      Clinical Trials Experience"
+  pattern2 <- paste0("(?<=\\b", keyword_start_2, "\\b)(.*?)(?=\\b", keyword_end_2, "\\b)")
+  
+  extracted_text_2 <- str_extract(pdf_string, regex(pattern2, ignore_case = TRUE, dotall = TRUE))
+  
+  if (!is.na(extracted_text_2)) {
+    split_words_2 <- unlist(str_split(extracted_text_2, "[,\\.\\:\\(\\)\\[\\]\\n]", simplify = FALSE))
+    split_words_2 <- str_trim(gsub("     ", "", split_words_2))
+    split_words_2 <- split_words_2[split_words_2 != ""]
+    
+    result_df <- rbind(result_df, data.frame(Reaction = split_words_2, Category = "Bullet Point"))
+  }
+  
+  ### Extract Postmarketing AEs
+  keyword_start_3 <- "6.2      Postmarketing Experience"
+  keyword_end_3 <- "7        DRUG INTERACTIONS"
+  pattern3 <- paste0("(?<=\\b", keyword_start_3, "\\b)(.*?)(?=\\b", keyword_end_3, "\\b)")
+  
+  extracted_text_3 <- str_extract(pdf_string, regex(pattern3, ignore_case = TRUE, dotall = TRUE))
+  
+  if (!is.na(extracted_text_3)) {
+    split_words_3 <- unlist(str_split(extracted_text_3, "[,\\.\\:\\(\\)\\[\\]\\n]", simplify = FALSE))
+    split_words_3 <- str_trim(gsub("     ", "", split_words_3))
+    split_words_3 <- split_words_3[split_words_3 != ""]
+    
+    result_df <- rbind(result_df, data.frame(Reaction = split_words_3, Category = "Postmarketing Experiences"))
+  }
+  
+  
+  ### Clean
+  result_df$Reaction <- gsub("\\s+", " ", gsub("[\r\n]+", " ", result_df$Reaction))
+  result_df <- result_df %>% distinct(Reaction, Category, .keep_all = TRUE)
+  
+  original_filename <- tools::file_path_sans_ext(basename(pdf_path))
+  output_filename <- paste0("Extracted_", original_filename, ".csv")
+  output_file <- file.path(output_folder, output_filename)
+  
+  write.csv(result_df, output_file, row.names = FALSE)
+  cat("File processed and saved:", output_file, "\n")
+}
+
+cat("All files have been processed and saved in:", output_folder, "\n")
+
+```
+
+```{r}
+## Tabel Extraction
+
+library(tabulapdf)
+library(stringr)
+library(dplyr)
+library(readr)
+
+input_folder <- "Labels"
+output_folder <- "AE_to_MedDRA/Original Files"
 
 if (!dir.exists(output_folder)) {
   dir.create(output_folder, recursive = TRUE)
 }
 
 
-label_files <- list.files(input_folder, pattern = "\\.pdf$", full.names = TRUE)
-
+label_files <- list.files(input_folder, pattern = "Tasigna_Label.pdf$", full.names = TRUE)
 
 for (pdf_path in label_files) {
+  cat("Processing:", pdf_path, "\n")
   
-  pdf_text <- pdf_text(pdf_path)
-  pdf_string <- paste(pdf_text, collapse = " ")
+  pdf_text <- tabulapdf::extract_text(pdf_path)
+  start_page <- NA
+  end_page <- NA
   
-  # Extract Additional Data from Clinical Trials part
+  # Identify pages containing "6.1" and "6.2"
+  # for (i in seq_along(pdf_text)) {
+    if (grepl("Because clinical trials", pdf_text[i], ignore.case = TRUE)) {
+      start_page <- i
+    }
+    if (grepl("The following adverse reactions", pdf_text[i], ignore.case = TRUE)) {
+      end_page <- i
+      break
+    }
+  }
+  start_page=12
+  end_page=20
+
+  if (!is.na(start_page) & !is.na(end_page)) {
+  cat(sprintf("Extracting tables from pages %d to %d\n", start_page, end_page))
   
-  keyword_start <- "Additional Data From Clinical Trials"
-  keyword_end <- "6.2      Postmarketing Experience"
-  pattern <- paste0("(?<=\\b", keyword_start, "\\b)(.*?)(?=\\b", keyword_end, "\\b)")
-  extracted_text <- str_extract(pdf_string, regex(pattern, ignore_case = TRUE, dotall = TRUE))
+  tables <- tabulapdf::extract_tables(pdf_path, pages = start_page:end_page, output = "tibble")
   
-  if (!is.na(extracted_text)) {
-    split_words <- unlist(str_split(extracted_text, "[,\\.\\:\\(\\)\\[\\]]", simplify = FALSE))
-    split_words <- str_trim(split_words)
-    split_words <- split_words[split_words != ""]
+  if (length(tables) > 0) {
+    result_df <- data.frame(Reaction = character(), Category = character(), stringsAsFactors = FALSE)
     
-    result_df <- data.frame(Reaction = split_words, stringsAsFactors = FALSE)
-    
-    # Extract bullet points before 6.1
-    
-    keyword_start_2 <- "6        ADVERSE REACTIONS"
-    keyword_end_2 <- "6.1      Clinical Trials Experience"
-    pattern2 <- paste0("(?<=\\b", keyword_start_2, "\\b)(.*?)(?=\\b", keyword_end_2, "\\b)")
-    extracted_text_2 <- str_extract(pdf_string, regex(pattern2, ignore_case = TRUE, dotall = TRUE))
-    
-    if (!is.na(extracted_text_2)) {
-      split_words_2 <- unlist(str_split(extracted_text_2, "[,\\.\\:\\(\\)\\[\\]]", simplify = FALSE))
-      split_words_2 <- str_trim(split_words_2)
-      split_words_2 <- gsub("     ", "", split_words_2)
-      split_words_2 <- split_words_2[split_words_2 != ""]
+    for (i in seq_along(tables)) {
+      table <- tables[[i]]
       
+      table_cells <- unlist(table)
+      table_cells <- str_trim(table_cells)
+      table_cells <- table_cells[table_cells != ""]  
       
-      
-      result_df_2 <- data.frame(Reaction = split_words_2, stringsAsFactors = FALSE)
-      result_df$Category <- "Additional Clinical Trial Data"
-      result_df_2$Category <- "Bullet Point"
-      
-      result_df <- rbind(result_df, result_df_2)
+      new_rows <- data.frame(
+        Reaction = table_cells,
+        Category = paste0("Table ", i, " (Pages: ", start_page, "-", end_page, ")"),
+        stringsAsFactors = FALSE
+      )
+      result_df <- rbind(result_df, new_rows)
     }
     
-    # Clean up whitespace and line breaks
-    result_df$Reaction <- gsub("\\s+", " ", gsub("[\r\n]+", " ", result_df$Reaction))
-    # Clean redundant lines
-    result_df <- result_df %>% distinct(Reaction, Category, .keep_all = TRUE)
-    
-
     original_filename <- tools::file_path_sans_ext(basename(pdf_path))
-    output_filename <- paste0("AdditionalClinicalTrials_", original_filename, ".csv")
+    output_filename <- paste0("ExtractedTables_", original_filename, ".csv")
     output_file <- file.path(output_folder, output_filename)
     
     write.csv(result_df, output_file, row.names = FALSE)
-    cat("File processed and saved:", output_file, "\n")
+    cat("File saved to:", output_file, "\n")
   } else {
-    cat("Keywords not found or text between them is empty for:", pdf_path, "\n")
+    cat("No tables found between the specified pages.\n")
   }
 }
 
-cat("All files have been processed and saved in:", output_folder, "\n")
-
+cat("All table extractions processed.\n")
 ```
